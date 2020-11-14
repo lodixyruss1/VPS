@@ -38,7 +38,7 @@ Dropbear_Port2='555'
 # Stunnel Ports
 Stunnel_Port1='443' # through Dropbear
 Stunnel_Port2='444' # through OpenSSH
-Stunnel_Port3='442' # through OpenVPN
+Stunnel_Port3='465' # through OpenVPN
 
 # OpenVPN Ports
 OpenVPN_Port1='110'
@@ -234,8 +234,8 @@ accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
 
 [openvpn]
-accept = $Stunnel_Port3
-connect = 127.0.0.1:$OpenVPN_Port1
+accept = 465
+connect = 127.0.0.1:110
 MyStunnelC
 
  # setting stunnel ports
