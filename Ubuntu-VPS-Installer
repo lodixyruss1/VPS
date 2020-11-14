@@ -38,7 +38,7 @@ Dropbear_Port2='555'
 # Stunnel Ports
 Stunnel_Port1='443' # through Dropbear
 Stunnel_Port2='444' # through OpenSSH
-Stunnel_Port3='465' # through OpenVPN
+Stunnel_Port3='442' # through OpenVPN
 
 # OpenVPN Ports
 OpenVPN_Port1='110'
