@@ -38,6 +38,7 @@ Dropbear_Port2='555'
 # Stunnel Ports
 Stunnel_Port1='443' # through Dropbear
 Stunnel_Port2='444' # through OpenSSH
+Stunnel_Port3='465' # through OpenVPN
 
 # OpenVPN Ports
 OpenVPN_Port1='110'
@@ -231,6 +232,10 @@ connect = 127.0.0.1:dropbear_port_c
 [openssh]
 accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
+
+[openvpn]
+accept = $Stunnel_Port3
+connect = 127.0.0.1:$OpenVPN_Port1
 MyStunnelC
 
  # setting stunnel ports
@@ -255,7 +260,7 @@ function InsOpenVPN(){
 
  # Creating server.conf, ca.crt, server.crt and server.key
  cat <<'myOpenVPNconf1' > /etc/openvpn/server_tcp.conf
-# XAMScript
+# LODIxyrussScript
 
 port MyOvpnPort1
 dev tun
@@ -294,7 +299,7 @@ push "dhcp-option DNS 8.8.4.4"
 push "dhcp-option DNS 8.8.8.8"
 myOpenVPNconf1
 cat <<'myOpenVPNconf2' > /etc/openvpn/server_udp.conf
-# XAMScript
+# LODIxyrussScript
 
 port MyOvpnPort2
 dev tun
@@ -858,7 +863,7 @@ chmod +x /etc/profile.d/barts.sh
 }
 
 function ScriptMessage(){
- echo -e " (｡◕‿◕｡) $MyScriptName Debian VPS Installer"
+ echo -e " (ï½¡â—•â€¿â—•ï½¡) $MyScriptName Debian VPS Installer"
  echo -e " Open release version"
  echo -e ""
  echo -e " Script created by Bonveio"
@@ -894,7 +899,7 @@ fi
 
  # (For OpenVPN) Checking it this machine have TUN Module, this is the tunneling interface of OpenVPN server
  if [[ ! -e /dev/net/tun ]]; then
- echo -e "[\e[1;31m×\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
+ echo -e "[\e[1;31mÃ—\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
  echo -e "[\e[1;31m-\e[0m] Script is now exiting..."
  exit 1
 fi
@@ -956,6 +961,7 @@ fi
  echo -e " Privoxy: $Privoxy_Port1, $Privoxy_Port2"
  echo -e " Squid: $Proxy_Port1, $Proxy_Port2"
  echo -e " OpenVPN: $OpenVPN_Port1, $OpenVPN_Port2"
+ echo -e " OpenVPN SSL: $Stunnel_Port3"
  echo -e " NGiNX: $OvpnDownload_Port"
  echo -e " Webmin: 10000"
  echo -e " L2tp IPSec Key: fakenetvpn101"
