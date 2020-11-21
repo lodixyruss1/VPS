@@ -32,17 +32,17 @@ SSH_Port2='225'
 SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
-Dropbear_Port1='550'
-Dropbear_Port2='555'
+Dropbear_Port1='844'
+Dropbear_Port2='843'
 
 # Stunnel Ports
-Stunnel_Port1='443' # through Dropbear
+Stunnel_Port1='445' # through Dropbear
 Stunnel_Port2='444' # through OpenSSH
-Stunnel_Port3='465' # through OpenVPN
+Stunnel_Port3='443' # through OpenVPN
 
 # OpenVPN Ports
 OpenVPN_Port1='110'
-OpenVPN_Port2='25222' # take note when you change this port, openvpn sun noload config will not work
+OpenVPN_Port2='1194' # take note when you change this port, openvpn sun noload config will not work
 
 # Privoxy Ports (must be 1024 or higher)
 Privoxy_Port1='9009'
@@ -231,7 +231,7 @@ accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
 
 [openvpn]
-accept = 465
+accept = 443
 connect = 127.0.0.1:110
 MyStunnelC
 
