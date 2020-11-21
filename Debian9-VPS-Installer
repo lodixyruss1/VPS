@@ -32,8 +32,8 @@ SSH_Port2='225'
 SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
-Dropbear_Port1='345'
-Dropbear_Port2='346'
+Dropbear_Port1='844'
+Dropbear_Port2='843'
 
 # Stunnel Ports
 Stunnel_Port1='445' # through Dropbear
