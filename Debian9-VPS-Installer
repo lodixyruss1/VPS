@@ -33,7 +33,7 @@ SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
 Dropbear_Port1='844'
-Dropbear_Port2='8081'
+Dropbear_Port2='843'
 
 # Stunnel Ports
 Stunnel_Port1='445' # through Dropbear
@@ -571,7 +571,7 @@ myPrivoxy
  apt install squid -y
  
 # Squid Ports (must be 1024 or higher)
- Proxy_Port1='8081'
+ Proxy_Port1='8181'
  Proxy_Port2='8080'
  cat <<mySquid > /etc/squid/squid.conf
 acl VPN dst $(wget -4qO- http://ipinfo.io/ip)/32
