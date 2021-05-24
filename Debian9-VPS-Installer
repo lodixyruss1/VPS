@@ -41,11 +41,11 @@ Stunnel_Port2='444' # through OpenSSH
 Stunnel_Port3='443' # through OpenVPN
 
 # OpenVPN Ports
-OpenVPN_Port1='110'
+OpenVPN_Port1='80'
 OpenVPN_Port2='1194' # take note when you change this port, openvpn sun noload config will not work
 
 # Privoxy Ports (must be 1024 or higher)
-Privoxy_Port1='9009'
+Privoxy_Port1='9191'
 Privoxy_Port2='9090'
 # OpenVPN Config Download Port
 OvpnDownload_Port='86' # Before changing this value, please read this document. It contains all unsafe ports for Google Chrome Browser, please read from line #23 to line #89: https://chromium.googlesource.com/chromium/src.git/+/refs/heads/master/net/base/port_util.cc
@@ -224,18 +224,15 @@ client = no
 socket = l:TCP_NODELAY=1
 socket = r:TCP_NODELAY=1
 TIMEOUTclose = 0
-
 [dropbear]
 accept = Stunnel_Port1
 connect = 127.0.0.1:dropbear_port_c
-
 [openssh]
 accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
-
 [openvpn]
 accept = 443
-connect = 127.0.0.1:110
+connect = 127.0.0.1:80
 MyStunnelC
 
  # setting stunnel ports
@@ -261,7 +258,6 @@ function InsOpenVPN(){
  # Creating server.conf, ca.crt, server.crt and server.key
  cat <<'myOpenVPNconf1' > /etc/openvpn/server_tcp.conf
 # LODIxyrussScript
-
 port MyOvpnPort1
 dev tun
 proto tcp
@@ -300,7 +296,6 @@ push "dhcp-option DNS 8.8.8.8"
 myOpenVPNconf1
 cat <<'myOpenVPNconf2' > /etc/openvpn/server_udp.conf
 # LODIxyrussScript
-
 port MyOvpnPort2
 dev tun
 proto udp
@@ -397,7 +392,6 @@ Certificate:
                 keyid:A7:D2:B5:38:DE:FA:42:A9:2F:58:5C:D8:3B:76:45:A5:75:C9:E9:25
                 DirName:/C=PH/ST=BIKOL/L=Naga/O=ScriptBarts/OU=https://github.com/Barts-23/CN=IAMBARTX/emailAddress=iambartx@gmail.com
                 serial:B9:D5:66:C1:A6:03:95:55
-
             X509v3 Extended Key Usage: 
                 TLS Web Server Authentication
             X509v3 Key Usage: 
@@ -621,7 +615,6 @@ myNginxC
  # Now creating all of our OpenVPN Configs 
 cat <<EOF152> /var/www/openvpn/GTMConfig.ovpn
 # Credits to LODIxyruss
-
 client
 dev tun
 proto tcp
@@ -646,15 +639,12 @@ verb 1
 http-proxy $(curl -s http://ipinfo.io/ip || wget -q http://ipinfo.io/ip) $Proxy_Port2
 http-proxy-option CUSTOM-HEADER Host redirect.googlevideo.com
 http-proxy-option CUSTOM-HEADER X-Forwarded-For redirect.googlevideo.com
-
 <ca>
 $(cat /etc/openvpn/ca.crt)
 </ca>
 EOF152
-
 cat <<EOF16> /var/www/openvpn/SunConfig.ovpn
 # Credits to LODIxyruss
-
 client
 dev tun
 proto udp
@@ -676,15 +666,12 @@ comp-lzo
 setenv CLIENT_CERT 0
 reneg-sec 0
 verb 1
-
 <ca>
 $(cat /etc/openvpn/ca.crt)
 </ca>
 EOF16
-
 cat <<EOF160> /var/www/openvpn/GStories.ovpn
 # Credits to LODIxyruss
-
 client
 dev tun
 proto tcp
@@ -709,12 +696,10 @@ verb 1
 http-proxy $(curl -s http://ipinfo.io/ip || wget -q http://ipinfo.io/ip) $Proxy_Port2
 http-proxy-option CUSTOM-HEADER Host tweetdeck.twitter.com
 http-proxy-option CUSTOM-HEADER X-Forwarded-For tweetdeck.twitter.com
-
 <ca>
 $(cat /etc/openvpn/ca.crt)
 </ca>
 EOF160
-
 cat <<EOF17> /var/www/openvpn/SunNoLoad.ovpn
 client
 dev tun
@@ -749,14 +734,11 @@ log /dev/null
 $(cat /etc/openvpn/ca.crt)
 </ca>
 EOF17
-
  # Creating OVPN download site index.html
 cat <<'mySiteOvpn' > /var/www/openvpn/index.html
 <!DOCTYPE html>
 <html lang="en">
-
 <!-- OVPN Download site by LODIxyrussScript -->
-
 <head><meta charset="utf-8" /><title>MyScriptName OVPN Config Download</title><meta name="description" content="MyScriptName Server" /><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" /><meta name="theme-color" content="#000000" /><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"><link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.3/css/mdb.min.css" rel="stylesheet"></head><body><div class="container justify-content-center" style="margin-top:9em;margin-bottom:5em;"><div class="col-md"><div class="view"><img src="https://openvpn.net/wp-content/uploads/openvpn.jpg" class="card-img-top"><div class="mask rgba-white-slight"></div></div><div class="card"><div class="card-body"><h5 class="card-title">Config List</h5><br /><ul class="list-group"><li class="list-group-item justify-content-between align-items-center" style="margin-bottom:1em;"><p>For Globe/TM <span class="badge light-blue darken-4">Android/iOS/PC/Modem</span><br /><small> For EZ/GS Promo with WNP freebies</small></p><a class="btn btn-outline-success waves-effect btn-sm" href="http://IP-ADDRESS:NGINXPORT/GTMConfig.ovpn" style="float:right;"><i class="fa fa-download"></i> Download</a></li><li class="list-group-item justify-content-between align-items-center" style="margin-bottom:1em;"><p>For Sun <span class="badge light-blue darken-4">Android/iOS/PC/Modem</span><br /><small> For TU UDP Promos</small></p><a class="btn btn-outline-success waves-effect btn-sm" href="http://IP-ADDRESS:NGINXPORT/SunConfig.ovpn" style="float:right;"><i class="fa fa-download"></i> Download</a></li><li class="list-group-item justify-content-between align-items-center" style="margin-bottom:1em;"><p>For Sun <span class="badge light-blue darken-4">Android/iOS/PC/Modem</span><br /><small> Trinet GIGASTORIES Promos</small></p><a class="btn btn-outline-success waves-effect btn-sm" href="http://IP-ADDRESS:NGINXPORT/GStories.ovpn" style="float:right;"><i class="fa fa-download"></i> Download</a></li></ul></div></div></div></div></body></html>
 mySiteOvpn
  
@@ -764,7 +746,6 @@ mySiteOvpn
  sed -i "s|MyScriptName|$MyScriptName|g" /var/www/openvpn/index.html
  sed -i "s|NGINXPORT|$OvpnDownload_Port|g" /var/www/openvpn/index.html
  sed -i "s|IP-ADDRESS|$IPADDR|g" /var/www/openvpn/index.html
-
  # Restarting nginx service
  systemctl restart nginx
  
@@ -773,7 +754,6 @@ mySiteOvpn
  zip -qq -r Configs.zip *.ovpn
  cd
 }
-
 function ip_address(){
   local IP="$( ip addr | egrep -o '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' | egrep -v "^192\.168|^172\.1[6-9]\.|^172\.2[0-9]\.|^172\.3[0-2]\.|^10\.|^127\.|^255\.|^0\." | head -n 1 )"
   [ -z "${IP}" ] && IP="$( wget -qO- -t1 -T2 ipv4.icanhazip.com )"
@@ -781,12 +761,10 @@ function ip_address(){
   [ ! -z "${IP}" ] && echo "${IP}" || echo
 } 
 IPADDR="$(ip_address)"
-
 function ConfStartup(){
  # Daily reboot time of our machine
  # For cron commands, visit https://crontab.guru
  echo -e "0 4\t* * *\troot\treboot" > /etc/cron.d/b_reboot_job
-
  # Creating directory for startup script
  rm -rf /etc/barts
  mkdir -p /etc/barts
@@ -797,16 +775,12 @@ function ConfStartup(){
 #!/bin/bash
 # Setting server local time
 ln -fs /usr/share/zoneinfo/MyVPS_Time /etc/localtime
-
 # Prevent DOS-like UI when installing using APT (Disabling APT interactive dialog)
 export DEBIAN_FRONTEND=noninteractive
-
 # Allowing ALL TCP ports for our machine (Simple workaround for policy-based VPS)
 iptables -A INPUT -s $(wget -4qO- http://ipinfo.io/ip) -p tcp -m multiport --dport 1:65535 -j ACCEPT
-
 # Allowing OpenVPN to Forward traffic
 /bin/bash /etc/openvpn/openvpn.bash
-
 # Deleting Expired SSH Accounts
 /usr/local/sbin/delete_expired &> /dev/null
 EOFSH
@@ -814,37 +788,30 @@ EOFSH
  
  # Setting server local time every time this machine reboots
  sed -i "s|MyVPS_Time|$MyVPS_Time|g" /etc/barts/startup.sh
-
  # 
  rm -rf /etc/sysctl.d/99*
-
  # Setting our startup script to run every machine boots 
  echo "[Unit]
 Description=Barts Startup Script
 Before=network-online.target
 Wants=network-online.target
-
 [Service]
 Type=oneshot
 ExecStart=/bin/bash /etc/barts/startup.sh
 RemainAfterExit=yes
-
 [Install]
 WantedBy=multi-user.target" > /etc/systemd/system/barts.service
  chmod +x /etc/systemd/system/barts.service
  systemctl daemon-reload
  systemctl start barts
  systemctl enable barts &> /dev/null
-
  # Rebooting cron service
  systemctl restart cron
  systemctl enable cron
  
 }
-
 function ConfMenu(){
 echo -e " Creating Menu scripts.."
-
 cd /usr/local/sbin/
 rm -rf {accounts,base-ports,base-ports-wc,base-script,bench-network,clearcache,connections,create,create_random,create_trial,delete_expired,diagnose,edit_dropbear,edit_openssh,edit_openvpn,edit_ports,edit_squid3,edit_stunnel4,locked_list,menu,options,ram,reboot_sys,reboot_sys_auto,restart_services,server,set_multilogin_autokill,set_multilogin_autokill_lib,show_ports,speedtest,user_delete,user_details,user_details_lib,user_extend,user_list,user_lock,user_unlock}
 wget -q 'https://raw.githubusercontent.com/Barts-23/menu1/master/menu.zip'
@@ -855,22 +822,18 @@ dos2unix ./* &> /dev/null
 sed -i 's|/etc/squid/squid.conf|/etc/privoxy/config|g' ./*
 sed -i 's|http_port|listen-address|g' ./*
 cd ~
-
 echo 'clear' > /etc/profile.d/barts.sh
 echo 'echo '' > /var/log/syslog' >> /etc/profile.d/barts.sh
 echo 'screenfetch -p -A Android' >> /etc/profile.d/barts.sh
 chmod +x /etc/profile.d/barts.sh
 }
-
 function ScriptMessage(){
- echo -e " (ï½¡â—•â€¿â—•ï½¡) $MyScriptName Debian VPS Installer"
+ echo -e " (｡◕‿◕｡) $MyScriptName Debian VPS Installer"
  echo -e " Open release version"
  echo -e ""
  echo -e " Script created by Bonveio"
  echo -e " Edited by LODIxyruss"
 }
-
-
 #############################
 #############################
 ## Installation Process
@@ -880,7 +843,6 @@ function ScriptMessage(){
 ## This part is too sensitive.
 #############################
 #############################
-
  # First thing to do is check if this machine is Debian
  source /etc/os-release
 if [[ "$ID" != 'debian' ]]; then
@@ -888,7 +850,6 @@ if [[ "$ID" != 'debian' ]]; then
  echo -e "[\e[1;31mError\e[0m] This script is for Debian only, exting..." 
  exit 1
 fi
-
  # Now check if our machine is in root user, if not, this script exits
  # If you're on sudo user, run `sudo su -` first before running this script
  if [[ $EUID -ne 0 ]];then
@@ -896,14 +857,12 @@ fi
  echo -e "[\e[1;31mError\e[0m] This script must be run as root, exiting..."
  exit 1
 fi
-
  # (For OpenVPN) Checking it this machine have TUN Module, this is the tunneling interface of OpenVPN server
  if [[ ! -e /dev/net/tun ]]; then
- echo -e "[\e[1;31mÃ—\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
+ echo -e "[\e[1;31m×\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
  echo -e "[\e[1;31m-\e[0m] Script is now exiting..."
  exit 1
 fi
-
  # Begin Installation by Updating and Upgrading machine and then Installing all our wanted packages/services to be install.
  ScriptMessage
  sleep 2
@@ -931,10 +890,8 @@ fi
  
  # Configuring Nginx OVPN config download site
  OvpnConfigs
-
  # Some assistance and startup scripts
  ConfStartup
-
  # VPS Menu script v1.0
  ConfMenu
  
@@ -943,7 +900,6 @@ fi
  
  clear
  cd ~
-
  # Running sysinfo 
  bash /etc/profile.d/barts.sh
  
@@ -975,9 +931,7 @@ fi
  echo -e ""
  echo -e ""
  echo -e " [Note] DO NOT RESELL THIS SCRIPT"
-
  # Clearing all logs from installation
  rm -rf /root/.bash_history && history -c && echo '' > /var/log/syslog
-
 rm -f Debian9-VPS-Installer*
 exit 1
