@@ -225,8 +225,8 @@ socket = l:TCP_NODELAY=1
 socket = r:TCP_NODELAY=1
 TIMEOUTclose = 0
 [dropbear]
-accept = Stunnel_Port1
-connect = 127.0.0.1:dropbear_port_c
+accept = 445
+connect = 127.0.0.1:80
 [openssh]
 accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
