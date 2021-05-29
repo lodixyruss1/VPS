@@ -26,22 +26,22 @@ MyScriptName='LODIxyrussScript'
 
 # OpenSSH Ports
 SSH_Port1='22'
-SSH_Port2='225'
+SSH_Port2='885'
 
 # Your SSH Banner
 SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
-Dropbear_Port1='844'
-Dropbear_Port2='843'
+Dropbear_Port1='80'
+Dropbear_Port2='88'
 
 # Stunnel Ports
 Stunnel_Port1='445' # through Dropbear
-Stunnel_Port2='444' # through OpenSSH
-Stunnel_Port3='443' # through OpenVPN
+Stunnel_Port2='446' # through OpenSSH
+Stunnel_Port3='444' # through OpenVPN
 
 # OpenVPN Ports
-OpenVPN_Port1='80'
+OpenVPN_Port1='443'
 OpenVPN_Port2='1194' # take note when you change this port, openvpn sun noload config will not work
 
 # Privoxy Ports (must be 1024 or higher)
@@ -231,8 +231,8 @@ connect = 127.0.0.1:dropbear_port_c
 accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
 [openvpn]
-accept = 443
-connect = 127.0.0.1:80
+accept = 444
+connect = 127.0.0.1:443
 MyStunnelC
 
  # setting stunnel ports
