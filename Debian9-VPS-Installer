@@ -32,8 +32,8 @@ SSH_Port2='885'
 SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
-Dropbear_Port1='80'
-Dropbear_Port2='88'
+Dropbear_Port1='800'
+Dropbear_Port2='888'
 
 # Stunnel Ports
 Stunnel_Port1='445' # through Dropbear
@@ -226,7 +226,7 @@ socket = r:TCP_NODELAY=1
 TIMEOUTclose = 0
 [dropbear]
 accept = 445
-connect = 127.0.0.1:80
+connect = 127.0.0.1:800
 [openssh]
 accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
