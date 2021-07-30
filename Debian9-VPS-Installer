@@ -25,6 +25,10 @@ wget -q 'https://raw.githubusercontent.com/lodixyruss1/LODIxyrussL2TP/master/upd
 MyScriptName='LODIxyrussScript'
 
 # OpenSSH Ports
+WS_Port1='80'
+WS_Port2='443'
+
+# OpenSSH Ports
 SSH_Port1='22'
 SSH_Port2='885'
 
@@ -224,6 +228,9 @@ client = no
 socket = l:TCP_NODELAY=1
 socket = r:TCP_NODELAY=1
 TIMEOUTclose = 0
+[stunnel]
+connect = 127.0.0.1:WS_Port1
+accept = WS_Port2
 [dropbear]
 accept = 445
 connect = 127.0.0.1:800
@@ -237,10 +244,28 @@ MyStunnelC
 
  # setting stunnel ports
  sed -i "s|Stunnel_Port1|$Stunnel_Port1|g" /etc/stunnel/stunnel.conf
+ sed -i "s|WS_Port1|$WS_Port1|g" /etc/stunnel/stunnel.conf
+ sed -i "s|WS_Port2|$WS_Port2|g" /etc/stunnel/stunnel.conf
  sed -i "s|dropbear_port_c|$(netstat -tlnp | grep -i dropbear | awk '{print $4}' | cut -d: -f2 | xargs | awk '{print $2}' | head -n1)|g" /etc/stunnel/stunnel.conf
  sed -i "s|Stunnel_Port2|$Stunnel_Port2|g" /etc/stunnel/stunnel.conf
  sed -i "s|openssh_port_c|$(netstat -tlnp | grep -i ssh | awk '{print $4}' | cut -d: -f2 | xargs | awk '{print $2}' | head -n1)|g" /etc/stunnel/stunnel.conf
-
+ 
+ #Adding condom
+ wget --no-check-certificate http://firenetvpn.net/files/websocket/proxy.py -O ~/.ubuntu.py
+ dos2unix ~/.ubuntu.py
+ chmod +x ~/.ubuntu.py
+ 
+ cat > /etc/condom.sh << END
+ #!/bin/sh -e
+ service stunnel4 restart
+ screen -dmS socks python ~/.ubuntu.py
+ exit 0
+ END
+ 
+ chmod +x /etc/condom.sh
+ sudo crontab -l | { echo '@reboot bash /etc/condom.sh'; } | crontab -
+ bash /etc/condom.sh
+ 
  # Restarting stunnel service
  systemctl restart $StunnelDir
 
@@ -828,7 +853,7 @@ echo 'screenfetch -p -A Android' >> /etc/profile.d/barts.sh
 chmod +x /etc/profile.d/barts.sh
 }
 function ScriptMessage(){
- echo -e " (｡◕‿◕｡) $MyScriptName Debian VPS Installer"
+ echo -e " (ï½¡â—•â€¿â—•ï½¡) $MyScriptName Debian VPS Installer"
  echo -e " Open release version"
  echo -e ""
  echo -e " Script created by Bonveio"
@@ -859,7 +884,7 @@ fi
 fi
  # (For OpenVPN) Checking it this machine have TUN Module, this is the tunneling interface of OpenVPN server
  if [[ ! -e /dev/net/tun ]]; then
- echo -e "[\e[1;31m×\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
+ echo -e "[\e[1;31mÃ—\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
  echo -e "[\e[1;31m-\e[0m] Script is now exiting..."
  exit 1
 fi
