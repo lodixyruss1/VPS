@@ -33,7 +33,7 @@ SSH_Port1='22'
 SSH_Port2='885'
 
 # Your SSH Banner
-SSH_Banner='https://fastnetvpn.com/raw/123my_script_banner.json'
+SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
 Dropbear_Port1='800'
