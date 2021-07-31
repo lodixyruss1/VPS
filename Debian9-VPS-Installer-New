@@ -45,7 +45,7 @@ Stunnel_Port2='446' # through OpenSSH
 Stunnel_Port3='444' # through OpenVPN
 
 # OpenVPN Ports
-OpenVPN_Port1='443'
+OpenVPN_Port1='448'
 OpenVPN_Port2='1194' # take note when you change this port, openvpn sun noload config will not work
 
 # Privoxy Ports (must be 1024 or higher)
@@ -239,7 +239,7 @@ accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
 [openvpn]
 accept = 444
-connect = 127.0.0.1:443
+connect = 127.0.0.1:448
 MyStunnelC
 
  # setting stunnel ports
