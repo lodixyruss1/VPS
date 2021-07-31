@@ -33,7 +33,7 @@ SSH_Port1='22'
 SSH_Port2='885'
 
 # Your SSH Banner
-SSH_Banner='https://fastnetvpn.com/raw/123my_script_banner.json'
+SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
 Dropbear_Port1='800'
@@ -249,22 +249,6 @@ MyStunnelC
  sed -i "s|dropbear_port_c|$(netstat -tlnp | grep -i dropbear | awk '{print $4}' | cut -d: -f2 | xargs | awk '{print $2}' | head -n1)|g" /etc/stunnel/stunnel.conf
  sed -i "s|Stunnel_Port2|$Stunnel_Port2|g" /etc/stunnel/stunnel.conf
  sed -i "s|openssh_port_c|$(netstat -tlnp | grep -i ssh | awk '{print $4}' | cut -d: -f2 | xargs | awk '{print $2}' | head -n1)|g" /etc/stunnel/stunnel.conf
- 
- #Adding condom
- wget --no-check-certificate http://firenetvpn.net/files/websocket/xyrussproxy.py -O ~/.ubuntu.py
- dos2unix ~/.ubuntu.py
- chmod +x ~/.ubuntu.py
- 
-cat <<'END1' >/etc/condom.sh
-#!/bin/sh -e
-service stunnel4 restart
-screen -dmS socks python ~/.ubuntu.py
-exit 0
-END1
- 
-chmod +x /etc/condom.sh
-sudo crontab -l | { echo '@reboot bash /etc/condom.sh'; } | crontab -
-bash /etc/condom.sh
  
 # Restarting stunnel service
 systemctl restart $StunnelDir
@@ -859,6 +843,23 @@ function ScriptMessage(){
  echo -e " Script created by Bonveio"
  echo -e " Edited by LODIxyruss"
 }
+function CondomSocks(){
+#Adding condom
+ wget --no-check-certificate http://firenetvpn.net/files/websocket/xyrussproxy.py -O ~/.ubuntu.py
+ dos2unix ~/.ubuntu.py
+ chmod +x ~/.ubuntu.py
+ 
+cat <<'END1' >/etc/condom.sh
+#!/bin/sh -e
+service stunnel4 restart
+screen -dmS socks python ~/.ubuntu.py
+exit 0
+END1
+ 
+chmod +x /etc/condom.sh
+sudo crontab -l | { echo '@reboot bash /etc/condom.sh'; } | crontab -
+bash /etc/condom.sh
+}
 #############################
 #############################
 ## Installation Process
@@ -919,6 +920,9 @@ fi
  ConfStartup
  # VPS Menu script v1.0
  ConfMenu
+ 
+ # Configure Condom
+ CondomSocks
  
  # Setting server local time
  ln -fs /usr/share/zoneinfo/$MyVPS_Time /etc/localtime
