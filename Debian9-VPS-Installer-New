@@ -958,5 +958,5 @@ fi
  echo -e " [Note] DO NOT RESELL THIS SCRIPT"
  # Clearing all logs from installation
  rm -rf /root/.bash_history && history -c && echo '' > /var/log/syslog
-rm -f Debian9-VPS-Installer*
+rm -f Debian9-VPS-Installer-New*
 exit 1
