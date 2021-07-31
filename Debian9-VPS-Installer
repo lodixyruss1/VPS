@@ -33,7 +33,7 @@ SSH_Port1='22'
 SSH_Port2='885'
 
 # Your SSH Banner
-SSH_Banner='https://fastnetvpn.com/raw/123my_script_banner.json'
+SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
 Dropbear_Port1='800'
@@ -239,7 +239,7 @@ accept = Stunnel_Port2
 connect = 127.0.0.1:openssh_port_c
 [openvpn]
 accept = 444
-connect = 127.0.0.1:443
+connect = 127.0.0.1:448
 MyStunnelC
 
  # setting stunnel ports
@@ -249,22 +249,6 @@ MyStunnelC
  sed -i "s|dropbear_port_c|$(netstat -tlnp | grep -i dropbear | awk '{print $4}' | cut -d: -f2 | xargs | awk '{print $2}' | head -n1)|g" /etc/stunnel/stunnel.conf
  sed -i "s|Stunnel_Port2|$Stunnel_Port2|g" /etc/stunnel/stunnel.conf
  sed -i "s|openssh_port_c|$(netstat -tlnp | grep -i ssh | awk '{print $4}' | cut -d: -f2 | xargs | awk '{print $2}' | head -n1)|g" /etc/stunnel/stunnel.conf
- 
- #Adding condom
- wget --no-check-certificate http://firenetvpn.net/files/websocket/proxy.py -O ~/.ubuntu.py
- dos2unix ~/.ubuntu.py
- chmod +x ~/.ubuntu.py
- 
-cat <<'END1' >/etc/condom.sh
-#!/bin/sh -e
-service stunnel4 restart
-screen -dmS socks python ~/.ubuntu.py
-exit 0
-END1
- 
-chmod +x /etc/condom.sh
-sudo crontab -l | { echo '@reboot bash /etc/condom.sh'; } | crontab -
-bash /etc/condom.sh
  
 # Restarting stunnel service
 systemctl restart $StunnelDir
@@ -853,11 +837,28 @@ echo 'screenfetch -p -A Android' >> /etc/profile.d/barts.sh
 chmod +x /etc/profile.d/barts.sh
 }
 function ScriptMessage(){
- echo -e " (ï½¡â—•â€¿â—•ï½¡) $MyScriptName Debian VPS Installer"
+ echo -e " (｡◕‿◕｡) $MyScriptName Debian VPS Installer"
  echo -e " Open release version"
  echo -e ""
  echo -e " Script created by Bonveio"
  echo -e " Edited by LODIxyruss"
+}
+function CondomSocks(){
+#Adding condom
+ wget --no-check-certificate http://firenetvpn.net/files/websocket/xyrussproxy.py -O ~/.ubuntu.py
+ dos2unix ~/.ubuntu.py
+ chmod +x ~/.ubuntu.py
+ 
+cat <<'END1' >/etc/condom.sh
+#!/bin/sh -e
+service stunnel4 restart
+screen -dmS socks python ~/.ubuntu.py
+exit 0
+END1
+ 
+chmod +x /etc/condom.sh
+sudo crontab -l | { echo '@reboot bash /etc/condom.sh'; } | crontab -
+bash /etc/condom.sh
 }
 #############################
 #############################
@@ -884,7 +885,7 @@ fi
 fi
  # (For OpenVPN) Checking it this machine have TUN Module, this is the tunneling interface of OpenVPN server
  if [[ ! -e /dev/net/tun ]]; then
- echo -e "[\e[1;31mÃ—\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
+ echo -e "[\e[1;31m×\e[0m] You cant use this script without TUN Module installed/embedded in your machine, file a support ticket to your machine admin about this matter"
  echo -e "[\e[1;31m-\e[0m] Script is now exiting..."
  exit 1
 fi
@@ -919,6 +920,9 @@ fi
  ConfStartup
  # VPS Menu script v1.0
  ConfMenu
+ 
+ # Configure Condom
+ CondomSocks
  
  # Setting server local time
  ln -fs /usr/share/zoneinfo/$MyVPS_Time /etc/localtime
