@@ -33,7 +33,7 @@ SSH_Port1='22'
 SSH_Port2='885'
 
 # Your SSH Banner
-SSH_Banner='https://fastnetvpn.com/raw/123my_script_banner.json'
+SSH_Banner='https://fakenetvpn.com/raw/amy_script_banner.json'
 
 # Dropbear Ports
 Dropbear_Port1='800'
@@ -45,7 +45,7 @@ Stunnel_Port2='446' # through OpenSSH
 Stunnel_Port3='444' # through OpenVPN
 
 # OpenVPN Ports
-OpenVPN_Port1='443'
+OpenVPN_Port1='448'
 OpenVPN_Port2='1194' # take note when you change this port, openvpn sun noload config will not work
 
 # Privoxy Ports (must be 1024 or higher)
@@ -198,7 +198,7 @@ MyDropbear
 }
 
 function InsStunnel(){
- StunnelDir=$(ls /etc/default | grep stunnel | head -n1)
+StunnelDir=$(ls /etc/default | grep stunnel | head -n1)
 
  # Creating stunnel startup config using cat eof tricks
 cat <<'MyStunnelD' > /etc/default/$StunnelDir
@@ -255,19 +255,19 @@ MyStunnelC
  dos2unix ~/.ubuntu.py
  chmod +x ~/.ubuntu.py
  
- cat > /etc/condom.sh << END
- #!/bin/sh -e
- service stunnel4 restart
- screen -dmS socks python ~/.ubuntu.py
- exit 0
- END
+cat <<'END1' >/etc/condom.sh
+#!/bin/sh -e
+service stunnel4 restart
+screen -dmS socks python ~/.ubuntu.py
+exit 0
+END1
  
- chmod +x /etc/condom.sh
- sudo crontab -l | { echo '@reboot bash /etc/condom.sh'; } | crontab -
- bash /etc/condom.sh
+chmod +x /etc/condom.sh
+sudo crontab -l | { echo '@reboot bash /etc/condom.sh'; } | crontab -
+bash /etc/condom.sh
  
- # Restarting stunnel service
- systemctl restart $StunnelDir
+# Restarting stunnel service
+systemctl restart $StunnelDir
 
 }
 
