@@ -1,1 +1,26 @@
 123
+{
+    "Message": "This app has been Disabled by Developer due to some issue so until then you won't be able to use this app please contact developer renzbarbz@gmail.com or the Vpn Owner. Thank You!",
+    "Destroy": true,
+    "ProtectifyVPN": false,
+    "SwatVPN":false,
+    "RepublicVPN": false,
+    "AdrianVPN":false,
+    "DriyanVPN":false,
+    "FakeNet SockTunnel":false,
+    "RedVPN":true,
+    "app.fibervpn.vpn": false,
+      "Shiva VPN Pro":true,
+     "Jomar VPN": true,
+     "fakenet.socktunnel.lodixyruss": false,
+     "Jio VPN": true,
+     "com.ffast.injector": true,
+     "app.todovpn.vpn": true,
+      "app.itelvpn.vpn": true,
+       "app.tsvpn.vpn": true,
+       "app.hktunnellite.vpn": true,
+        "app.localbusvpn.vpn": true,
+        "app.starvpn1.vpn": true,
+        "app.starvpn.vpn": true,
+        "app.longlifevpn.vpn": true
+}
