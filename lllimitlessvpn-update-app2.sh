@@ -7,7 +7,8 @@
 • Fixed request coins<br>
 • Server flag update<br>
 • Optimize UI<br>
-• like our fb page <a href="https://Facebook.com/limitlessvpn2022">fb.me/limitlessvpn2022</a><br>
+• Like our fb page: <a href=\"https://www.facebook.com/limitlessvpn2022">fb.me/limitlessvpn2022</a><br>
+
 • Supported Android 5 & above<br>
 "
 }
