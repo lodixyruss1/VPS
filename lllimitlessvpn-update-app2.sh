@@ -1,10 +1,10 @@
 {
-"newVersion": "8.8",
+"newVersion": "9.8",
 "apkUrl": "https://play.google.com/store/apps/details?id=itunnelssh.vpn.limitless",
 "versionNotes":"
 •Limitless VPN•<br>
 <br>
-• Fixed request coins<br>
+• Fixed android 12<br>
 • Server flag update<br>
 • Optimize UI<br>
 • Like our fb page: https://www.facebook.com/limitlessvpn2022<br>
