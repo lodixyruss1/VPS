@@ -1,6 +1,6 @@
 {
 
-"Version":"1",
+"Version":"2",
 
 "AdminCoin":"lodixyrussdevz2021s",
 
@@ -30,9 +30,9 @@
 
 "Name":"Code 3",
 
-"Code":"ILOVE-ANTE-JIETECH",
+"Code":"LIMITLESS-100COINS",
 
-"Coins":15
+"Coins":100
 
 }
 
