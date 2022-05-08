@@ -30,7 +30,7 @@
 
 "Name":"Code 3",
 
-"Code":"LIMITLESS-100COINS",
+"Code":"100COINS",
 
 "Coins":100
 
