@@ -1,8 +1,8 @@
 {
 
-"newVersion": "1.1",
+"newVersion": "8.8",
 
-"apkUrl": "https://play.google.com/store/apps/details?id=itunnelssh.vpn.limitless",
+"apkUrl": "https://play.google.com/store/apps/details?id=xyruss.vpn.limitless",
 
 "versionNotes":"
 
