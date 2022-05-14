@@ -1,6 +1,6 @@
 {
 
-"Version":"2",
+"Version":"3",
 
 "AdminCoin":"lodixyrussdevz2021s",
 
@@ -30,7 +30,7 @@
 
 "Name":"Code 3",
 
-"Code":"100COINS",
+"Code":"100COINS999",
 
 "Coins":100
 
