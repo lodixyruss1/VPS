@@ -1,5 +1,23 @@
 {
- "versionCode": "1.1.1",
- "url": "https://dropmb.com/files/9b390c7ded6cfc412bb36547f138d357.apk",
- "Message": "♨️Firenet Tunnel Update\n\n✅Fixed minimal bug issue\n✅Added Slow DNS Service\n✅Added SSL/TLS + Proxy"
- }
+
+"newVersion": "8.9",
+
+"apkUrl": "https://play.google.com/store/apps/details?id=xyruss.vpn.limitless",
+
+"versionNotes":"
+
+•Firenet Tunnel•<br><br>
+
+
+
+• Custom Import & Export Finally Fixed.<br>
+
+• You Can Now Custom Setup and Export Your Own Config and Share to others.<br>
+
+• Like our fb page: https://www.facebook.com/limitlessvpn2022<br>
+
+• Supported Android 5 & above<br>
+
+"
+
+}
