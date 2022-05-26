@@ -1,8 +1,14 @@
 {
- "versionCode": "8.8",
- "url": "https://play.google.com/store/apps/details?id=firenet.vpn.com.tunnel",
- "Message": "♨️Firenet Tunnel App Update\n\n✅Update your app now on google playstore\n\n✅Whats new:\nUpgrade ssh service\nAdded IP hunter\nUpdate UI interface\nand more\n\nIf the update not show in PlayStore uninstall your old app and reinstall the new app in PlayStore \n\nDon't forget to rate us 5 ⭐"
- }
+"newVersion": "8.8",
+"apkUrl": "https://play.google.com/store/apps/details?id=firenet.vpn.com.tunnel",
+"versionNotes":"
+•Limitless VPN•<br><br>
+• Import & Export Finally Fixed.<br>
+• You Can Now Custom Setup and Export Your Own Config and Share to others.<br>
+• Like our fb page: https://www.facebook.com/limitlessvpn2022<br>
+• Supported Android 5 & above<br>
+"
+}
 
 
 
