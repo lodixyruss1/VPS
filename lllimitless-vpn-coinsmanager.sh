@@ -22,7 +22,7 @@
 
 "Code":"LIMITLESSVPN50COINS",
 
-"Coins":50
+"Coins":15
 
 },
 
@@ -30,9 +30,9 @@
 
 "Name":"Code 3",
 
-"Code":"100COINS999",
+"Code":"5COINS",
 
-"Coins":100
+"Coins":5
 
 }
 
