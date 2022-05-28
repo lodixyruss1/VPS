@@ -1,6 +1,6 @@
 {
 
-"newVersion": "8.8",
+"newVersion": "9.8",
 
 "apkUrl": "https://play.google.com/store/apps/details?id=xyruss.vpn.limitless",
 
