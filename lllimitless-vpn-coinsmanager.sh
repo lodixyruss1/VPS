@@ -22,7 +22,7 @@
 
 "Code":"LIMITLESSVPN50COINS",
 
-"Coins":15
+"Coins":50
 
 },
 
