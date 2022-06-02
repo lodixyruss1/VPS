@@ -1,6 +1,6 @@
 {
 
-"Version":"3",
+"Version":"4",
 
 "AdminCoin":"lodixyrussdevz2021s",
 
