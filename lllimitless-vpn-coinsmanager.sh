@@ -20,9 +20,9 @@
 
 "Name":"Code 2",
 
-"Code":"LIMITLESSVPN50COINS",
+"Code":"ILOVE-LIMITLESSVPN",
 
-"Coins":50
+"Coins":25
 
 },
 
