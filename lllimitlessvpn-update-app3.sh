@@ -1,6 +1,6 @@
 {
 
-"newVersion": "9.8",
+"newVersion": "10.8",
 
 "apkUrl": "https://play.google.com/store/apps/details?id=xyruss.vpn.limitless",
 
@@ -10,9 +10,9 @@
 
 <br>
 
-• Custom Import & Export Finally Fixed.<br>
+• Fixed Ads Policy.<br>
+• Fixed some bug issue<br>
 
-• You Can Now Custom Setup and Export Your Own Config and Share to others.<br>
 
 • Like our fb page: https://www.facebook.com/limitlessvpn2022<br>
 
