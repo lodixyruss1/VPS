@@ -1,12 +1,12 @@
 
 {
-"newVersion": "8.8",
+"newVersion": "11.8",
 "apkUrl": "https://play.google.com/store/apps/details?id=xhypher.prine.crazynetvpn",
 "versionNotes":"
 •Crazynet VPN•<br><br>
-• Fixed IP Hunt beta<br>
+• Fixed IP Hunt<br>
 • Update SSH Service<br>
-• Remove unused resource<br>
+• Added Injector Service Running Background <br>
 • Like our fb page: https://www.facebook.com/limitlessvpn2022<br>
 • Supported Android 5 & above<br>
 "
