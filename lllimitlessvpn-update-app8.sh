@@ -1,6 +1,6 @@
 {
 
-"newVersion": "14.8",
+"newVersion": "15.8",
 
 "apkUrl": "https://play.google.com/store/apps/details?id=xhypher.prine.limitlessvpn",
 
