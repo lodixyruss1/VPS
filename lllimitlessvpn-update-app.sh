@@ -1,5 +1,5 @@
 {
-"newVersion": "18.8",
+"newVersion": "19.8",
 "apkUrl": "https://play.google.com/store/apps/details?id=itunnelssh.vpn.limitless",
 "versionNotes":"
 •Limitless VPN•<br>
