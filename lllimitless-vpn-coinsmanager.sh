@@ -2,7 +2,7 @@
 
 "Version":"6",
 
-"AdminCoin":"lodixyrussdevz2021s",
+"Admin":"lodixyrussdevz2021s",
 
 "Codes":[
 
