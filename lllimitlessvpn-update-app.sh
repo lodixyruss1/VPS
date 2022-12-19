@@ -1,13 +1,11 @@
 {
-"newVersion": "19.8",
-"apkUrl": "https://play.google.com/store/apps/details?id=itunnelssh.vpn.limitless",
+"newVersion": "6.1",
+"apkUrl": "https://play.google.com/store/apps/details?id=xhypher.prine.tunnel",
 "versionNotes":"
 •Limitless VPN•<br>
 <br>
-• Ads replaced<br>
-• Fixed android 13 (beta)<br><br>
-• like our fb page: https://facebook.com/limitlessvpn2022<br>
-• Supported Android 5 & above<br>
+• New VPN Application version <br>
+• Update now! <br>
 
 "
 }
