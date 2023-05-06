@@ -1,6 +1,6 @@
 {
 
-"Version":"1",
+"Version":"2",
 
 "AdminCoin":"lodixyrussdevz2021s",
 
@@ -30,7 +30,7 @@
 
 "Code":"XHYPHERTUNNEL",
 
-"Coins":20
+"Coins":500
 
 },
 
