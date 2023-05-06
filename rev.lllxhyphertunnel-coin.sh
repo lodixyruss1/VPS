@@ -30,7 +30,7 @@
 
 "Code":"XHYPHERTUNNEL",
 
-"Coins":500
+"Coins":20
 
 },
 
