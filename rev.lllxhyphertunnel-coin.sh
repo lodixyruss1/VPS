@@ -1,6 +1,6 @@
 {
 
-"Version":"2",
+"Version":"3",
 
 "AdminCoin":"lodixyrussdevz2021s",
 
@@ -18,9 +18,9 @@
 
 "Name":"Code 2",
 
-"Code":"NETH PESOT",
+"Code":"INDEPENDENT DAY",
 
-"Coins":10
+"Coins":25
 
 },
 
