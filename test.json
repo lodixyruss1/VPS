@@ -1,1 +1,2430 @@
-kugmo test
+
+    "port": "80",
+    "host": "104.16.81.57",
+    "friendly_name": "🇸🇦 KSA JAWAY FREE",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+    "message": "✈️fly mode on and off ✈️✈️",
+    "method": "http",
+
+    "port": "80",
+    "host": "104.16.82.57",
+    "friendly_name": "🇸🇦 KSA JAWAY FREE 100%",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+    "message": " JAWAY FREE All KSA",
+    "method": "http",
+
+    "port": "443",
+    "host": "checkout.payfort.com",
+    "friendly_name": "🇸🇦 KSA Jaway free 💯 (1)",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+    "message": "KSA Jaway free SAUDI ",
+    "sslws": "true",
+
+   "port": "443",
+   "host": "community.jawwy.sa",
+   "friendly_name": "🇮🇷 Iran free 1🇸🇦KSA jawwy Free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "104.16.82.57",
+   "friendly_name": " 🇸🇦 KSA jawwy Free working 2 💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "104.16.82.57",
+   "friendly_name": "🇸🇦 KSA JAWWAY Free 100%",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "message": "✈️mode on and off ✈️✈️",
+   "sslws": "true",
+
+   "port": "80",
+   "host": "paymentservices.payfort.com",
+   "friendly_name": "🇸🇦 KSA |  Jawwy Free 2023 -Private",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "message": "♥️ 1 Click Connect ♥turning flight mode on and off ✈️✈️",
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Jawwy 15 SAR Tiktok 1",
+   "sausage": "www.tiktok.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Jawwy 20 SAR Social 1 Week",
+   "sausage": "www.snapchat.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Jawwy YouTube Package",
+   "sausage": "www.youtube.com",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "mobile2.twimg.com",
+   "friendly_name": "🇸🇦 Jawwy 75 SAR package ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "mobile2.twimg.com",
+   "friendly_name": "🇸🇦 KSA | Jawwy 75 riyal",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: mobile2.twimg.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+    "port": "443",
+    "host": "162.159.129.11",
+    "friendly_name": "🇸🇦 KSA MOBILY 60&ALL Social",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+    "message": "💯 NEW UPDATED 💯",
+    "sslws": "true",
+
+   "port": "443",
+   "host": "162.159.138.78",
+   "friendly_name": "🇸🇦 KSA Mobily 60 SAR -3 ♥️100%",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "message": "All Area Working ",
+   "sslws": "true",
+
+   "port": "443",
+   "host": "ir.aboutamazon.com",
+   "friendly_name": "🇸🇦 KSAMobily 60 SAR all Area 💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "162.159.130.11",
+   "friendly_name": "🇸🇦 KSA《Mobily 35+60 SAR》Fix2️⃣",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "nl.exchangerates.org.uk",
+   "friendly_name": "🇸🇦 KSA mobily 39 riyal 2💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: nl.exchangerates.org.uk[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+  {
+   "port": "443",
+   "host": "mobile2.twimg.com",
+   "friendly_name": "🇸🇦 Mobily 35/60 Riyal unblock1💯",
+   "sausage": "",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+
+   "friendly_name": "🇸🇦 KSA Mobily 60 100000%",
+   "sausage": "ir.aboutamazon.com",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "13.227.15.122",
+   "friendly_name": "🇸🇦 KSA mobily 60 sar all area working 💯"
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+  
+   "port": "80",
+   "host": "thecyberwire.com",
+   "friendly_name": "🇸🇦 KSA mobily 39 riyal💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: thecyberwire.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "community.snap.com",
+   "friendly_name": "🇸🇦 KSA | Mobily 60 1000%🔜",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "104.16.251.55",
+   "friendly_name": "🇸🇦 KSA | Mobily ( 60 ) SAR -2 🌐",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "message": "Unblock Area Working",
+   "sslws": "true",
+
+   "port": "443",
+   "host": "screensaver.riotgames.com",
+   "friendly_name": "🇸🇦KSA | Mobily 35 SAR💯💯💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "api.red.virgin.com",
+   "friendly_name": "🇸🇦 MOBILY 35|25|39|60 ALL AREA",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: api.red.virgin.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+ 
+   "port": "80",
+   "host": "104.16.251.55",
+   "friendly_name": "🇸🇦 KSA | Mobily 25 SAR UN 🌐🌏",
+   "payload": "CDN wss://[host] HTTP/1.3[crlf]Host: mobile2.twimg.com[crlf]Connection: Keep-Alive,Upgrade,HTTP3-Settings:[host][crlf]Proxy-Connection: Keep-Alive[crlf]Vary: Accept-Encoding[crlf]CF-Cache-Status: DYNAMIC[crlf]CF-RAY: 778ca82e1c4fbe94-CGK[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "(Send:1100👉Type:211) (30 Days)",
+   "method": "http",
+
+   "port": "80",
+   "host": "api.red.virgin.com",
+   "friendly_name": "🇸🇦 MOBILY 60|35|25|39 ALL AREA",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: api.red.virgin.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "sslws": "false",
+  
+   "port": "80",
+   "host": "104.16.251.55",
+   "friendly_name": "🇸🇦MOBILY 35 SAR 01 ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Zain Pack NX2/25 Riyal",
+   "sausage": "ir.netflix.net",
+   "message": "TIPE NX2 send 959",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "104.16.51.111",
+   "friendly_name": "🇸🇦 KSA | Zain SN1/SN2/SN3",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Zain VB3 Package ",
+   "sausage": "www.line.me",
+   "method": "ssl",
+ 
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Zain NX2 Package ",
+   "sausage": "mobile.netflix.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Zain RWP Package",
+   "sausage": "www.google.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Zain FB1 Package ",
+   "sausage": "m.facebook.com",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "support.canvas.snapchat.com",
+   "friendly_name": "🇸🇦 KSA | Zain (SM3-SN3-60SAR) Package ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Zain Anghami Package ",
+   "sausage": "angwplayer.anghami.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 Saudi Zain VB3 2 💯",
+   "sausage": "cs-ocr.clova.line.me",
+   "method": "ssl",
+  
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA STC 89 Rial Unlimited",
+   "sausage": "m.whatsapp.net",
+   "message": "only package working ",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | STC & Zain All Social Package",
+   "sausage": "m.whatsapp.net",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | STC & Zain All YouTube Package ",
+   "sausage": "www.youtube.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | STC & Zain  All Tiktok Package ",
+   "sausage": "www.tiktok.com",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "104.16.6.253",
+   "friendly_name": "🇸🇦 KSA Yaqoot Free Internet",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "www.payfort.com",
+   "friendly_name": "🇸🇦 YAQOOT FREE NEW 💪 ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Yaqoot WhatsApp Package",
+   "sausage": "web.whatsapp.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇦 KSA | Yaqoot YouTube Package",
+   "sausage": "www.youtube.com",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "mobile2.twimg.com",
+   "friendly_name": "🇦🇪 KSA | WhatsApp Packages 01",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "18 AED packages",
+   "method": "http",
+ 
+   "port": "80",
+   "host": "mobile2.twimg.com",
+   "friendly_name": " 🇦🇪 KSA | WhatsApp Packages 02",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: mobile2.twimg.com[rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "162.159.138.78",
+   "friendly_name": "🇸🇦 KSA | 60&25 working🦢",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "143.204.89.49",
+   "friendly_name": "🇸🇦 Saudi][Zain|ALL PACKAGE]💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "vnivq83628.lithium.com",
+   "friendly_name": " 🇸🇦 Jawwy free 100% 2025🔰",
+   "sausage": "m.google.com",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "Please Flight Mood On/Off",
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "104.16.251.55",
+   "friendly_name": "🇮🇷[🇸🇦]Mobily 60&35/As.cell Pks",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "موبايلي اونلي 60 و 35/20 ريال",
+   "sslws": "true",
+
+    "port": "80",
+    "host": "52.85.96.26",
+    "friendly_name": "🇮🇷 Iran | Shatel Free ",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇮🇷 IRAN][FreeNet][5]\"",
+   "sausage": "iranserver.com",
+   "method": "ssl",
+
+    "port": "443",
+    "host": "apiclaroid.claropay.com",
+    "friendly_name": "🇮🇷 Iran | Freedom (1)",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "فیلتر شکن",
+    "sslws": "true",
+
+    "port": "443",
+    "host": "cdn.medallia.com",
+    "friendly_name": "🇮🇷 Iran | Freedom (2)",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "فیلتر شکن",
+    "sslws": "true",
+
+    "port": "443",
+    "host": "origin.api.amxrest.net",
+    "friendly_name": "🇮🇷 Iran | Freedom (3)",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "فیلتر شکن",
+    "sslws": "true",
+
+    "port": "443",
+    "host": "api.paymaya.com",
+    "friendly_name": "🇮🇷 Iran | Freedom (4)",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "فیلتر شکن",
+    "sslws": "true",
+ 
+    "port": "443",
+    "host": "processorpay.com",
+    "friendly_name": "🇮🇷 Iran | Freedom (5)",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "فیلتر شکن",
+    "sslws": "true",
+  
+   "port": "80",
+   "host": "unpkg.com",
+   "friendly_name": "🇮🇷 IraN MCI Free🇵🇰 Try pk free",
+   "payload": "CDN wss://[host] HTTP/1.3[crlf]Host: unpkg.com[crlf]Connection: Keep-Alive,Upgrade,HTTP3-Settings:[host][crlf]Proxy-Connection: Keep-Alive[crlf]Vary: Accept-Encoding[crlf]CF-Cache-Status: DYNAMIC[crlf]CF-RAY: 778ca82e1c4fbe94-CGK[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇵🇰 all sim try",
+   "method": "http",
+ 
+   "port": "443",
+   "friendly_name": "🇮🇷 Iran | Blogfa",
+   "sausage": "blogfa.com",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: bmi.ir[crlf]Origin: [ua][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf][crlf]~blogfa.com
+   "sslws": "true",
+
+   "friendly_name": "🇮🇷 Iran | Myket",
+   "sausage": "myket.ir",
+   "message": "إيران ميكت",
+   "method": "ssl",
+
+   "friendly_name": "🇮🇷 Iran | Hiweb",
+   "sausage": "hiweb.ir",
+   "message": "🇮🇷 إيران | هيويب",
+   "method": "ssl",
+
+   "friendly_name": "🇮🇷 Iran | BMI",
+   "sausage": "bmi.ir",
+   "message": "🇮🇷 إيران | مؤشر كتلة الجسم",
+   "method": "ssl",
+  
+   "port": "80",
+   "host": "Pulled",
+   "friendly_name": "🇮🇷 Iran | Freedom (1)",
+   "payload": "GET http://paquetesyrecargas.claro.com.do/odatos?user=PREPAGO HTTP/1.1[crlf]Host: paquetesyrecargas.claro.com.do[crlf][crlf]GET / HTTP/1.1[crlf]Host: paquetesyrecargas.claro.com.do[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+  
+    "port": "443",
+    "host": "api.paymaya.com",
+    "friendly_name": "🇮🇷 Iran تنظیمات برای ایرانسل و همراه اول ",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "443",
+    "host": "api.rudderlabs.com",
+    "friendly_name": "🇮🇷 Iran | MCI 2️⃣ ",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇮🇷 Iran | Irancell ",
+   "sausage": "autodiscover.etisalat.af",
+   "method": "ssl",
+  
+   "port": "443",
+   "friendly_name": "🇮🇷 IRAN | IRANCELL _1 ✅",
+   "sausage": "www.web.shad.ir",
+   "method": "ssl",
+ 
+    "port": "80",
+    "host": "api.paymaya.com",
+    "friendly_name": "🇮🇷 irancell-mci wifi-new-02",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: phonepe.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "method": "http",
+  
+   "port": "443",
+   "host": "devbuilds.uber.com",
+   "friendly_name": "🇮🇷 Iran | برای همراه اول ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: devbuilds.uber.com[rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+ 
+   "port": "80",
+   "host": "52.85.96.26",
+   "friendly_name": "🇮🇷 Iran | تنظیمات برای وای‌فای ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+  
+   "port": "80",
+   "host": "community-stage.jawwy.sa",
+   "friendly_name": "🇮🇷 IRAN | Raitel 30 days Package",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+  
+   "port": "443",
+   "host": "community-stage.jawwy.sa",
+   "friendly_name": "🇮🇷 IRAN | Raitel 30 days Package",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "apiclaroid.claropay.com",
+   "friendly_name": "🇮🇷 Irancell free الجديد🪶🪶",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "إنترنت مجاني إيران",
+   "sslws": "true",
+ 
+   "port": "80",
+   "host": "apiclaroid.claropay.com",
+   "friendly_name": "🇮🇷 Irancell free الجديد 2 🐰",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: apiclaroid.claropay.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+ 
+   "port": "443",
+   "friendly_name": "🇮🇷 RAN][FreeNet][",
+   "sausage": "yektanet.com",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "merch.eveonline.com",
+   "friendly_name": "🇮🇶 IRAQ oodi free new",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+  
+   "port": "443",
+   "host": "investors.spotify.com",
+   "friendly_name": "🇮🇶 Iraq | Zain Free (1)",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "community-stage.spotify.com",
+   "friendly_name": "🇮🇶 Iraq | Zain Free (2)",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "friendly_name": "🇮🇶 IRAQ | zain packages.viber",
+   "sausage": "noc-vo.viber.com",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "support.oodi.iq",
+   "friendly_name": "🇮🇶 Iraq oodi new no block",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "merch.eveonline.com",
+   "friendly_name": "🇮🇶 Iraq oodi new no block 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "80",
+   "host": "itpc.gov.iq",
+   "friendly_name": "🇮🇶 IRAQ Earthlink New 💯 ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+  
+   "port": "443",
+   "host": "earthlink.net",
+   "friendly_name": "🇮🇶 Iraq | Earthlink Free 5G Fast",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "104.16.252.55",
+   "friendly_name": "🇮🇶 Iraq | Asiacell Package 💥",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "career24.gtigrows.com",
+   "friendly_name": "🇮🇶 Iraq | Zain Social Package 💥",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "104.21.75.221",
+   "friendly_name": "🇮🇶 RiQ Earthlink 🍣🦀🦀",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "104.21.75.221",
+   "friendly_name": "🇮🇶 RiQ Earthlink 🍣🦀🦀🌰",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+  
+    "port": "443",
+    "host": "career24.gtigrows.com",
+    "friendly_name": "🇮🇷Iraq | Zain Social Package",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+  
+   "port": "443",
+   "host": "noc-vo.viber.com",
+   "friendly_name": "🇮🇷 Iraq | All SIM Social Package",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "80",
+   "friendly_name": "🇰🇼 Kuwait | Zain Free",
+   "payload": "CONNECT [host_port]@www.kw.zain.com HTTP/1.1[crlf][crlf]POST http://www.kw.zain.com/ HTTP/1.0[crlf]Host: www.kw.zain.com[crlf][crlf]
+   "method": "http",
+  
+    "port": "443",
+    "host": "188.114.98.160",
+    "friendly_name": "🇧🇩 Bangladesh | Banglalink Free",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "♥️ Good Working ♥",
+    "sslws": "true",
+
+    "port": "80",
+    "host": "104.22.53.166",
+    "friendly_name": "🇧🇩 BANGLADESH Banglalink (2)",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "🇧🇩 BANGLADESH Airtel",
+    "method": "http",
+  
+   "port": "80",
+   "friendly_name": "🇧🇩 BANGLADESH Airtel FREEl",
+   "sausage": "v27.tiktokcdn.com",
+   "payload": "ACL google.com HTTP/1.1[lf]Host:google.com[lf]",
+   "message": "🙂 যাদের পূর্বে PPU Block নেয়া আছে তাদেরই চলবে 🙂",
+   "method": "http",
+
+   "port": "80",
+   "host": "188.114.97.3",
+   "friendly_name": "🇧🇩  banglalink new",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+ 
+    "port": "80",
+    "host": "alijan.sg.phinfotech.net",
+    "friendly_name": "🇵🇰 Pakistan zong free",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: alijan.sg.phinfotech.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "method": "http",
+
+   "friendly_name": "🇵🇰 Pakistan ufone Facebook",
+   "payload": "TRACE / HTTP/1.1[crlf]Host: www.facebook.com[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇵🇰 Pakistan social package ",
+   "method": "http",
+  
+   "port": "80",
+   "friendly_name": "🇵🇰 PAKISTAN ZONG WHATSAPP",
+   "payload": "GET / HTTP/1.1[crlf]Host: www.whatsapp.net[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "airplane ✈️ mode",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🇵🇰 PAKISTAN ZONG FACEBOOK",
+   "payload": "GET / HTTP/1.1[crlf]Host: h.facebook.com[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "iff no connect ✈️ 2 3 time",
+   "method": "http",
+ 
+    "port": "80",
+    "host": "18.66.122.107",
+    "friendly_name": "🇵🇰 Pakistan | Zong Free NEW 2023",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "🇵🇰 Pakistan",
+    "method": "http",
+
+    "port": "80",
+    "host": "origin.api.amxrest.net",
+    "friendly_name": "🇵🇰 Pakistan UFone Free . V2RY PK",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "Pakistan 🇵🇰 UNLIMITED INTERNET ",
+    "method": "http",
+
+    "port": "443",
+    "host": "origin.api.amxrest.net",
+    "friendly_name": "🇵🇰 Pakistan UFone Free-$-SSH V9",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "Pakistan 🇵🇰 UNLIMITED INTERNET ",
+    "sslws": "true",
+
+    "port": "80",
+    "host": "origin.api3.amxrest.net",
+    "friendly_name": "🇵🇰 Pakistan UFone Free-@- R15 V6",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "Pakistan 🇵🇰 UNLIMITED INTERNET ",
+    "method": "http",
+
+    "port": "80",
+    "host": "104.22.71.205",
+    "friendly_name": "🇵🇰 Pakistan zong unlimited 2023",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "Pakistan try new",
+    "method": "http",
+
+    "port": "80",
+    "host": "who.int",
+    "friendly_name": "🇵🇰 Pakistan][Jazz Unlimited#1",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+
+    "port": "80",
+    "host": "162.159.128.79",
+    "friendly_name": "🇵🇰 Pakistan][Telenor Unlimited]🚭",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "پاکستان کی نئی اپڈیٹ",
+    "method": "http",
+
+    "port": "443",
+    "host": "securities-frontend.line-scdn.net",
+    "friendly_name": "🇵🇰 JAZZ SOCIAL 7GB ",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "80",
+    "host": "162.159.128.79",
+    "friendly_name": "🇵🇰 Telenur 2 GB Free Dial-First  *915#",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "2 GB free by dialing one per day",
+    "method": "http",
+
+    "port": "80",
+    "host": "community.snap.com",
+    "friendly_name": "🇵🇰 Telenur&All Sim try Free",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "اسنیپ چیٹ تمام پیکیج",
+    "method": "http",
+  
+    "port": "80",
+    "host": "www.pubg.com",
+    "friendly_name": "🇵🇰 Zong Pubg Pkg ",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "Dail  *7824#/Rs 105",
+    "method": "http",
+ 
+    "port": "80",
+    "host": "18.66.122.107",
+    "friendly_name": "🇵🇰 Zong free Sange koye",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+
+    "port": "443",
+    "host": "172.67.38.66",
+    "friendly_name": "🇵🇰 Zong free bondo bahi",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "جرب جميع بطاقات SIM المتاحة",
+    "sslws": "true",
+
+   "port": "80",
+   "friendly_name": "🌍All Network-YOUTUBE 🇵🇰🛜"
+   "payload": "POST http://youtu.be HTTP/1.0[crlf]Host: http://youtu.be[crlf]Connection: keep-alive[crlf]X-Online-Host: http://youtu.be[crlf]X-Forward-Host: http://youtu.be[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Viber🔓🇵🇰",
+   "payload": "POST http://m.viber.com HTTP/1.0[crlf]Host: http://m.viber.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://m.viber.com[crlf]X-Forward-Host: http://m.viber.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK imo 🔓🇵🇰",
+   "payload": "POST http://m.imo.com HTTP/1.0[crlf]Host: http://m.imo.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://m.imo.com[crlf]X-Forward-Host: http://m.imo.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social SCOM WHATSAPP  🔓🇵🇰",
+   "payload": "POST http://www.whatsapp.com HTTP/1.0[crlf]Host: http://www.whatsapp.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.whatsapp.com[crlf]X-Forward-Host: http://www.whatsapp.com[crlf][crlf]
+   "message": "All Country 🛜🌍",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social SCOM NETFLIX 🔓🇵🇰",
+   "payload": "POST http://www.netflix.com HTTP/1.0[crlf]Host: http://www.netflix.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.netflix.com[crlf]X-Forward-Host: http://www.netflix.com[crlf][crlf]
+   "message": "All Country 🛜🌍",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Spotify 🔓🇵🇰",
+   "payload": "POST http://www.spotify.com HTTP/1.0[crlf]Host: http://www.spotify.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.spotify.com[crlf]X-Forward-Host: http://www.spotify.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Twitch 🔓🇵🇰",
+   "payload": "POST http://www.twitch.tv HTTP/1.0[crlf]Host: http://www.twitch.tv[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.twitch.tv[crlf]X-Forward-Host: http://www.twitch.tv[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Skype🔓🇵🇰",
+   "payload": "POST http://www.skype.com HTTP/1.0[crlf]Host: http://www.skype.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.skype.com[crlf]X-Forward-Host: http://www.skype.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Free Firae🔓🇵🇰",
+   "payload": "POST http://ff.garena.com HTTP/1.0[crlf]Host: http://ff.garena.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://ff.garena.com[crlf]X-Forward-Host: http://ff.garena.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Zoom🔓🇵🇰",
+   "payload": "POST http://www.zoom.us HTTP/1.0[crlf]Host: http://www.zoom.us[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.zoom.us[crlf]X-Forward-Host: http://www.zoom.us[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK instagram🔓🇵🇰",
+   "payload": "POST http://www.instagram.com HTTP/1.0[crlf]Host: http://www.instagram.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.instagram.com[crlf]X-Forward-Host: http://www.instagram.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Youtube🔓🇵🇰",
+   "payload": "POST http://www.youtube.com HTTP/1.0[crlf]Host: http://www.youtube.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.youtube.com[crlf]X-Forward-Host: http://www.youtube.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+    "port": "80",
+    "host": "community.snap.com",
+    "friendly_name": "🌍Social PACK Snapchat 1🔓🇵🇰",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "query": "normal",
+    "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Snapchat 2🔓🇵🇰",
+   "payload": "POST http://www.snapchat.com HTTP/1.0[crlf]Host: http://www.snapchat.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.snapchat.com[crlf]X-Forward-Host: http://www.snapchat.com[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+    "port": "443",
+    "host": "dl.aw.freefiremobile.com",
+    "friendly_name": "🌍Social PACK PUBG Free-Fire 1🔓🇵🇰",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "All country 🌍🛜",
+    "sslws": "true",
+
+    "port": "80",
+    "host": "screensaver.riotgames.com",
+    "friendly_name": "🌍Social PACK PUBG Free-Fire🔓🇵🇰",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "All country 🌍🛜",
+    "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK FACEBOOK🔓🇵🇰",
+   "payload": "POST http://WWW.FACEBOOK.COM HTTP/1.0[crlf]Host: http://WWW.FACEBOOK.COM[crlf]Connection: keep-alive[crlf]X-Online-Host: http://WWW.FACEBOOK.COM[crlf]X-Forward-Host: http://WWW.FACEBOOK.COM[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK TWITTER🔓🇵🇰",
+   "payload": "POST http://WWW.TWITTER.COM HTTP/1.0[crlf]Host: http://WWW.TWITTER.COM[crlf]Connection: keep-alive[crlf]X-Online-Host: http://WWW.TWITTER.COM[crlf]X-Forward-Host: http://WWW.TWITTER.COM[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK Google all🔓🇵🇰",
+   "payload": "POST http://WWW.PLUS.GOOGLE.COM HTTP/1.0[crlf]Host: http://WWW.PLUS.GOOGLE.COM[crlf]Connection: keep-alive[crlf]X-Online-Host: http://WWW.PLUS.GOOGLE.COM[crlf]X-Forward-Host: http://WWW.PLUS.GOOGLE.COM[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK LINKEDIN🔓🇵🇰",
+   "payload": "POST http://WWW.LINKEDIN.COM HTTP/1.0[crlf]Host: http://WWW.LINKEDIN.COM[crlf]Connection: keep-alive[crlf]X-Online-Host: http://WWW.LINKEDIN.COM[crlf]X-Forward-Host: http://WWW.LINKEDIN.COM[crlf][crlf]
+   "message": "All country 🌍🛜",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🌍Social PACK messenger🔓🇵🇰",
+   "payload": "POST http://www.messenger.com HTTP/1.0[crlf]Host: http://www.messenger.com[crlf]Connection: keep-alive[crlf]X-Online-Host: http://www.messenger.com[crlf]X-Forward-Host: http://www.messenger.com[crlf][crlf]
+   "dothost": "All country 🌍🛜"
+
+
+  
+    "port": "443",
+    "host": "18.64.174.27",
+    "friendly_name": "🇱🇰 Sri Lanka | Hutch",
+    "sausage": "oneapp.hutch.lk",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+   "port": "80",
+   "friendly_name": "🇱🇰  Sri Lanka Airtel free",
+   "payload": "CONNECT [host_port] [protocol][crlf]Host: Universal.daraz.lk[crlf]XOnlineHost: Universal.daraz.lk[crlf]Connection: KeepAlive[crlf]UserAgent: [ua][crlf][crlf]
+   "method": "http",
+  
+    "port": "443",
+    "host": "d216901qxcl0k5.cloudfront.net",
+    "friendly_name": "🇱🇰 Sri Lanka | Dialog Free 2 ",
+    "sausage": "status.twitter.com",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]~52.84.96.169
+    "message": "ocsws",
+    "sslws": "true",
+ 
+    "port": "443",
+    "host": "artwork.angham.me",
+    "friendly_name": "🇴🇲 Oman | TikTok Package",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "🕺 TikTok Pack 🕺",
+    "sslws": "true",
+
+    "port": "80",
+    "host": "13.33.88.16",
+    "friendly_name": "🇴🇲 Oman][Oman Tell|Free",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "OmanTel  100% Free Internet ",
+    "method": "http",
+
+    "port": "443",
+    "host": "www.omantelkids.com",
+    "friendly_name": "🇴🇲 OMAN-TEL SiM Free Unlimited 2",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "🇴🇲 OmanTel  100% Free Internet ",
+    "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇪🇬 Egyptتثبيت_ميجات_راوتر_فودافون",
+   "sausage": "csi.gstatic.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇪🇬 Egyptتثبيت_ميجات_راوتر_فودافون",
+   "sausage": "142.250.187.131",
+   "payload": "csi.gstatic.com",
+   "method": "direct",
+
+   "port": "443",
+   "host": "104.18.23.26",
+   "friendly_name": "🇪🇬 Egypt orange & Etisalat",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "ptldynamic.play.etisalat.eg",
+   "friendly_name": "🇪🇬 Egypt][Etisalat Router|Speed",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇪🇬 EGYPT- ORANGE & ETISALAT",
+   "sausage": "0.facebook.com",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "braze-images.com",
+   "friendly_name": "🇪🇬 آسياسيل سوشيال",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "origin.api.amxrest.net",
+   "friendly_name": "🇦🇪 UAE | DU 20AED - 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "Arab Emirates Dubai 🇦🇪 ",
+   "sslws": "true",
+
+   "port": "443",
+   "host": "104.16.51.111",
+   "friendly_name": "🇦🇪 UAE | Etisalat 18AED",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]
+   "message": "Arab Emirates Dubai 🇦🇪 ",
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇦🇪 UAE | Etisalat 40AED",
+   "sausage": "m.twitter.com",
+   "message": "Arab Emirates Dubai 🇦🇪 ",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇦🇪 UAE | Etisalat Data/WiFi - 1",
+   "sausage": "nasa.gov",
+   "message": "Arab Emirates Dubai 🇦🇪 ",
+   "method": "ssl",
+
+   "port": "80",
+   "friendly_name": "🇦🇪 UAE | DU Data/WiFi",
+   "payload": "CONNECT [host_port] [protocol][crlf]Host: flypgs.com[crlf]X-Online-Host: flypgs.com[crlf]X-Forward-Host: flypgs.com[crlf]Connection: Keep-Alive[crlf][crlf]
+   "message": "Arab Emirates Dubai 🇦🇪 ",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🇦🇪 Social Package",
+   "payload": "GET http://facebook.com  HTTP/1.1[crlf]Host: facebook.com[crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf][crlf]
+   "message": "Arab Emirates Dubai 🇦🇪 ",
+   "method": "http",
+
+   "port": "443",
+   "host": "blog.soundcloud.com",
+   "friendly_name": "🇦🇪 UAE | Du Music NEW 01",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "100% Working",
+   "method": "http",
+ 
+   "port": "443",
+   "host": "press.soundcloud.com",
+   "friendly_name": "🇦🇪 UAE | du music 02🎷",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "✈️ Turn flight mode on or off if not connected",
+   "sslws": "true",
+
+   "port": "443",
+   "host": "104.16.51.111",
+   "friendly_name": "🇦🇪 UAE | Du Music 04",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "✈️ Turn flight mode on or off if not connected",
+   "method": "http",
+
+   "port": "443",
+   "host": "community-stage.spotify.com",
+   "friendly_name": "🇦🇪 UAE | Du Music 05 🎧",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "✈️ Turn flight mode on or off if not connected",
+   "sslws": "true",
+
+   "port": "80",
+   "friendly_name": "🇦🇪 UAE | Du 50 AED Nonstop",
+   "payload": "GET [host_port] [protocol][crlf]Host: ee.france.fr[crlf]X-Online-Host: ee.france.fr[crlf]X-Forward-Host: ee.france.fr[crlf]X-Forwarded-For: ee.france.fr[crlf]Connection: Keep-Alive[crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇦🇪 UAE | Etisalat new Social 01🌹",
+   "sausage": "m.tiktok.com",
+   "message": "Dail 👉 *101*3030 Daily 1 GB New Social",
+   "method": "ssl",
+
+   "port": "80",
+   "friendly_name": "🇦🇪 UAE | Du WiFi ",
+   "payload": "CONNECT [isv_host] [protocol][crlf]Host: ee.france.fr[crlf]X-Online-Host: ee.france.fr[crlf]X-Forward-Host: ee.france.fr[crlf]Connection: Keep-Alive[crlf][crlf]
+   "message": "Good working",
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🇦🇪 UAE | Du 50 AED Nonstop",
+   "payload": "GET [host_port] [protocol][crlf]Host: www.tiktok.com[crlf]X-Online-Host: www.tiktok.com[crlf]X-Forward-Host: www.tiktok.com[crlf]X-Forwarded-For: www.tiktok.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]CONNECT [host_port] [protocol][crlf][crlf]
+   "message": "Good working",
+   "method": "http",
+
+   "port": "80",
+   "host": "mobile2.twimg.com",
+   "friendly_name": "🇦🇪 UAE | Du 80 AED Social 🆕",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "UNLIMITED DATA ",
+   "method": "http",
+
+   "port": "80",
+   "host": "104.16.51.111",
+   "friendly_name": "🇦🇪 UAE | DU 20.AED 2023 NEW",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🇦🇪 UAE | Etisalat Music Anghami",
+   "payload": "GET [host_port] [protocol][crlf]Host: www.anghami.com[crlf]X-Online-Host: www.anghami.com[crlf]X-Forward-Host: www.anghami.com[crlf]X-Forwarded-For: www.anghami.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]CONNECT [host_port] [protocol][crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "mobile2.twimg.com",
+   "friendly_name": "🇦🇪 Du Chat / Du 80 ARD  - 1",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+    "port": "443",
+    "host": "104.16.251.55",
+    "friendly_name": "🌍 CHAT UAE🇦🇪 ALL Country PACKAGE",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "All Country Whatsapp PACK WORK Unlimited internet",
+    "sslws": "true",
+
+    "port": "80",
+    "host": "104.17.72.fastnetvpn.com",
+    "friendly_name": "🇶🇦 Qatar | Ooredoo 30/60QR -20MBS SPEED",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "♥️ Good Working ♥",
+    "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇾🇪 Yemen | Yemen Net Wi-Fi Free ",
+   "sausage": "ptc.gov.ye",
+   "message": "Yamini 4G Net مجاني 100 %",
+   "method": "ssl",
+
+    "port": "80",
+    "host": "www.zainkids-sa.com",
+    "friendly_name": "🇾🇪 Yemen zain unlimited",
+    "sausage": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "[🇾🇪] Yemen zain unlimited[🇾🇪]",
+    "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇾🇪 Yemen|Yemen Mobile Free",
+   "sausage": "yemenmobile.com.ye",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇹🇯 Tajikistan Tcell 3 💯",
+   "sausage": "kids.tcell.tj",
+   "method": "ssl",
+
+    "port": "80",
+    "host": "promo.parimatch.tj",
+    "friendly_name": "🇹🇯TAJIKISTAN ALLNETUNLIMITED"
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+ 
+   "port": "443",
+   "friendly_name": "🇹🇯Tajikistan megafone new",
+   "sausage": "media-share-5.s3.dualstack.eu-central-450.amazonaws.com",
+   "method": "ssl",
+  
+   "port": "80",
+   "host": "99.86.229.119",
+   "friendly_name": "🇹🇯 Tajikistan Free",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+  
+   "port": "443",
+   "host": "13.225.142.116",
+   "friendly_name": "🇲🇦 Morocco ofpp 6",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "aeroplane mod one off",
+   "sslws": "true",
+
+   "port": "80",
+   "host": "engineering.giphy.com",
+   "friendly_name": "🇲🇦 Morocco][Orange|Free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🇲🇦 Morocco  iam free"
+   "payload": "CONNECT uae.ac.ma:80 HTTP/1.1[crlf]Host:Skype.com[crlf]X-Forwarded-Host:Skype.com[crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "ads-interfaces-dev.sc-cdn.net",
+   "friendly_name": " 🇲🇦 Morocco  inwi free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ads-interfaces-dev.sc-cdn.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "104.16.53.111",
+   "friendly_name": "🇲🇦 Morocco Telecom free",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇦 Morocco | Orange 7 ",
+   "sausage": "v27.tiktokcdn.com",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "static.line-scdn.net",
+   "friendly_name": "🇲🇦 Morocco orange free 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: static.line-scdn.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "162.159.138.6",
+   "friendly_name": "🇲🇦 Morocco inwi free",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "104.16.51.111",
+   "friendly_name": "🇲🇦 Morocco etisalat free",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "104.28.14.97",
+   "friendly_name": "🇲🇦 Morocco iam free",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇦 Morocco Wifi",
+   "sausage": "m.google.com",
+   "payload": "m.google.com",
+   "method": "direct",
+
+   "port": "443",
+   "friendly_name": "🇲🇦 Morocco wifi -1",
+   "sausage": "m.google.com",
+   "payload": "m.google.com",
+   "method": "direct",
+
+   "port": "443",
+   "friendly_name": "🇲🇦 Morocco wifi -2",
+   "sausage": "m.google.com",
+   "payload": "m.google.com",
+   "method": "direct",
+    
+   "port": "443",
+   "host": "141.193.213.11",
+   "friendly_name": "🇲🇦 اورنج",
+   "sausage": "ofppt-bmk.electude.eu",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+  
+    "port": "80",
+    "host": "cdn.shopify.com",
+    "friendly_name": "🇹🇲 Turkmenistan | Freedom",
+    "payload": "OPENKEYS-GET wss://[rlb] HTTP/1.1[crlf]Host: www.newmetrics.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+   
+   "port": "80",
+   "host": "cdn.shopify.com",
+   "friendly_name": "🇹🇲 Turkmenistan | Freedom 1",
+   "payload": "OPENKEYS-GET wss://[rlb] HTTP/1.1[crlf]Host: cdn.shopify.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇻 || Dhiraagu 60 GB New Package",
+   "sausage": "help.soundcloud.com",
+   "message": "Maldives جزر المالديف",
+   "method": "ssl",
+ 
+    "port": "80",
+    "host": "ct-giphy.sc-cdn.net",
+    "friendly_name": "🇲🇻 Maldives Snapchat 20 GB👑",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "جزر المالديف Maldives",
+    "method": "http",
+
+    "port": "443",
+    "host": "104.16.51.111",
+    "friendly_name": "🇲🇻 Maldives | All Snapchat Pack",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "Maldives جزر المالديف",
+    "sslws": "true",
+
+   "friendly_name": "🇲🇻 Maldives | All TikTok Pack",
+   "sausage": "www.tiktok.com",
+   "message": "جزر المالديف Maldives",
+   "method": "ssl",
+
+   "friendly_name": "🇲🇻 Maldives Dhiraagu All Packages ",
+   "sausage": "www.soundcloud.com",
+   "method": "ssl",
+
+   "port": "80",
+   "friendly_name": "🇨🇲 Cameroon mtn unlimited",
+   "payload": "HTTP/1.1 200[crlf]Host: [rotate=host154.70.107.66.mtn.cm;garena.com;ayoba.me][crlf]
+   "method": "http",
+  
+   "port": "80",
+   "host": "104.18.21.174",
+   "friendly_name": "🇨🇲 Cameroon][MTN Free Internet",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇨🇲]Cameroon][MTN[🇨🇲]",
+   "method": "http",
+  
+    "port": "80",
+    "host": "auth.mtn.cm",
+    "friendly_name": "🇨🇲 Cameroon MTN FREE",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "[🇨🇲]GOOD WORKING[🇨🇲]",
+    "method": "http",
+
+   "friendly_name": "🇲🇲 Myanmar ooredoo free",
+   "sausage": "ar.ooredoo.com.mm",
+   "method": "ssl",
+ 
+    "port": "80",
+    "host": "link.e.tiktok.com",
+    "friendly_name": "🇲🇲🇰🇭MyanmarAtom SimGamePlan",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: link.e.tiktok.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "message": "🇰🇭Cambodia tiktok working",
+    "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇲 Myanmar CGP Mytel SIM free",
+   "sausage": "ja.cyberqwik.me",
+   "payload": "ja.cyberqwik.me",
+   "method": "direct",
+
+   "port": "443",
+   "friendly_name": "🇲🇲 Myanmar CGP Mytel SIM free",
+   "sausage": "jp1.eternalvpn.xyz",
+   "payload": "jp1.eternalvpn.xyz",
+   "method": "direct",
+
+   "port": "80",
+   "host": "pubg.com",
+   "friendly_name": "🇲🇲 Myanmar Atom PACKAGE🫒",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "message": " 70¢  ATOM 899 PACKAGE",
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇲 Myanmar Ooredo 500MB",
+   "sausage": "mpu-ecommerce.com",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "dl.aw.freefiremobile.com",
+   "friendly_name": "🇲🇲 | Myanmar  plan 1",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: dl.aw.freefiremobile.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "dl.aw.freefiremobile.com",
+   "friendly_name": "🇲🇲 | Myanmar  plan - 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "d2405b0jymm2dk.cloudfront.net",
+   "friendly_name": "🇲🇲 | Atom Ya Tha Unlimited",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+ 
+  
+    "port": "443",
+    "host": "dl.aw.freefiremobile.com",
+    "friendly_name": "🇸🇬 SINGAPORE Free",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "♥️ Good Working ♥",
+    "sslws": "true",
+  
+   "port": "80",
+   "friendly_name": "🇸🇬 SINGAPORE STARHUBFREE UNLIMITED",
+   "payload": "CONNECT [host_port]@login.starhubgee.com.sg [protocol][crlf]Host: login.starhubgee.com.sg[crlf]X-Online-Host: login.starhubgee.com.sg[crlf]X-Forward-Host: login.starhubgee.com.sg[crlf]X-Forwarded-For: login.starhubgee.com.sg[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]
+   "method": "http",
+  
+    "port": "443",
+    "host": "dl.aw.freefiremobile.com",
+    "friendly_name": "🇸🇬 Singapore proxy ",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+ 
+   "port": "443",
+   "host": "cdn-prod.hotlink.com.my",
+   "friendly_name": "🇲🇾 MALAYSIA HOT LINK",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "securities-frontend.line-scdn.net",
+   "friendly_name": "🇮🇩 INDONESIA NEW  LINE",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "lpgen.line-scdn.net",
+   "friendly_name": " 🇮🇩 Indonesia XL FLEX 1️⃣",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "static.line-scdn.net",
+   "friendly_name": "🇮🇩 Indonesia XL FLEX 2️⃣",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "sogood.linefriends.com",
+   "friendly_name": "🇮🇩 Indonesia XL FLEX WA",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "lpgen.line-scdn.net",
+   "friendly_name": "🇮🇩 Indonesia XL FLEX 4️⃣",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "cdntest31.line-scdn.net",
+   "friendly_name": "🇮🇩 Indonesia XL FLEX 5️⃣",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇵🇬 PapuaNewGuinea ENT",
+   "sausage": "sp.sportsmax.digicelgroup.com",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "media-digicel.goloudnow.com",
+   "friendly_name": "🇵🇬PapuaNewGuinea][Digital Bundle & GoLoud",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇵🇬 PapuaNewGuinea PlayGO ENT|Watch NRL",
+   "sausage": "sp.sportsmax.digicelgroup.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇵🇬 PapuaNewGuineFB Messenger Social",
+   "sausage": "edge.messenger.com",
+   "method": "ssl",
+  
+   "port": "443",
+   "friendly_name": "🇻🇳 Vietnam][Viettel Unlimited",
+   "sausage": "imageakm1.tv360.vn",
+   "method": "ssl",
+  
+   "port": "443",
+   "friendly_name": "🇯🇵 (💛 GCP -1 💛",
+   "sausage": "p1.eternalvpn.xyz",
+   "payload": "p1.eternalvpn.xyz",
+   "method": "direct",
+
+   "port": "443",
+   "friendly_name": "🇯🇵 GCP -1",
+   "sausage": "ja.cyberqwik.me",
+   "payload": "ja.cyberqwik.me",
+   "method": "direct",
+
+   "port": "443",
+   "friendly_name": "🇯🇵 GCP -2",
+   "sausage": "eternaltunnel-jpgcp.hotmaiil.gq",
+   "payload": "eternaltunnel-jpgcp.hotmaiil.gq",
+   "message": "✈️",
+   "method": "direct",
+  
+   "port": "80",
+   "host": "104.26.15.41",
+   "friendly_name": "🇬🇭 Ghana Mtn free new",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "104.26.15.41",
+   "friendly_name": "🇬🇭 Ghana | MTN 500MB",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇬🇭 Ghana",
+   "method": "http",
+
+   "port": "80",
+   "host": "104.26.15.41",
+   "friendly_name": "🇬🇭 Ghana | All Operator 500MB",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇬🇭 Ghana",
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇬🇭GH | TIKTOK PACKAGE",
+   "sausage": "www.tiktok.com",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "zula.ir",
+   "friendly_name": "🇬🇭 MTN FREE NEW"
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: zula.ir[rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+
+   "port": "443",
+   "friendly_name": "🇳🇬 Nigeria Wifi Mobile Data",
+   "sausage": "m.google.com",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "www.arcademics.com",
+   "friendly_name": "🇰🇿🇳🇬 Nigeria | MTN mPulse Bundle 🇰🇿operator beeline ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇰🇿operator beeline ",
+   "sslws": "true",
+
+   "port": "443",
+   "host": "Treekle.ng",
+   "friendly_name": "🇳🇬 Nigeria mtn&zai free new",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "mtn&zai free new",
+   "sslws": "true",
+  
+   "port": "80",
+   "friendly_name": "🇰🇪 Kenya safaricom back",
+   "payload": "CONNECT [host_port]@www.cellc.co.za [protocol][crlf]Host: www.cellc.co.za[crlf]X-Online-Host: www.cellc.co.za[crlf]X-Forward-Host: www.cellc.co.za[crlf]X-Forwarded-For: www.cellc.co.za[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]
+   "method": "http",
+
+    "port": "443",
+    "host": "52.84.102.35",
+    "friendly_name": "🇰🇪 🇰🇪 SAFARICOM 2 ",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+ 
+    "port": "443",
+    "host": "www.telkomkenya.com",
+    "friendly_name": "🇰🇪 Kenya telkom",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "443",
+    "host": "www.primevideo.com",
+    "friendly_name": "🇰🇪 Kenya vodacom 10gb",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "443",
+    "host": "52.84.96.169",
+    "friendly_name": "🇰🇪 Safaricom Unlimited free 🍅"
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "443",
+    "host": "server-52-84-96-169.nbo50.r.cloudfront.net",
+    "friendly_name": "🇰🇪 Kenya safaricom back",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+  
+   "port": "443",
+   "host": "52.84.96.169",
+   "friendly_name": "🇰🇪 Kenya safaricom supper 💯💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇿🇦 SA | MTN 75GB - 1",
+   "sausage": "www.youtube.com",
+   "message": "💯 Good Working 💯",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇿🇦 SA | MTN 75GB - 2",
+   "sausage": "www.showmax.com",
+   "message": "💯 Good Working 💯",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "www.mtnonlineschool.co.za",
+   "friendly_name": "🇿🇦 ZAF MTN 1GB/DAY 2023 South Africa",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "South Africa",
+   "method": "http",
+
+   "port": "80",
+   "host": "shinda247.co.ke",
+   "friendly_name": "🇿🇦 safaricom2gb wow",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: shinda247.co.ke[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "origin.api.amxrest.net",
+   "friendly_name": "🇳🇦 Namibia | MTC Free 💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Unlimited 💯",
+   "sslws": "true",
+
+   "port": "80",
+   "friendly_name": "🇳🇦 Namibia MTN FREE 2",
+   "payload": "PUT http://free.facebook.com/ HTTP/1.1[crlf]X-Online-Host: free.facebook.com[crlf]X-Forward-Host: free.facebook.com[crlf]Host: free.facebook.com[crlf]X-Forwarded-For: free.facebook.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]CONNECT [host_port] [protocol][crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "friendly_name": "🇳🇦 Namibia MTN FREE",
+   "payload": "CONNECT [host_port]@free.facebook.com/zero_balance_redirect?operator=mtn_zmhttps://free.facebook.com/zero_balance_redirect?operator=mtn_zm [protocol][crlf]Host: free.facebook.com/zero_balance_redirect?operator=mtn_zmhttps://free.facebook.com/zero_balance_redirect?operator=mtn_zm[crlf]X-Online-Host: free.facebook.com/zero_balance_redirect?operator=mtn_zmhttps://free.facebook.com/zero_balance_redirect?operator=mtn_zm[crlf]X-Forward-Host: free.facebook.com/zero_balance_redirect?operator=mtn_zmhttps://free.facebook.com/zero_balance_redirect?operator=mtn_zm[crlf]X-Forwarded-For: free.facebook.com/zero_balance
+   "method": "http",
+
+   "port": "80",
+   "host": "172.64.151.138",
+   "friendly_name": "🇳🇦 Namibia MTN free 🥶",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🌍 Africa Angola new",
+   "sausage": "cdnjs.cloudflare.com",
+   "message": "new free now working ",
+   "method": "ssl",
+ 
+   "port": "443",
+   "host": "auth.mtn.cg",
+   "friendly_name": "🇨🇫 Central African new",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "friendly_name": "🌍 Africa Angola  Afrcell free",
+   "sausage": "pagamentonline.emis.co.ao",
+   "method": "ssl",
+
+   "friendly_name": "🇳🇪 Free internet ",
+   "sausage": "www.moov.africa.net",
+   "method": "ssl",
+ 
+    "port": "80",
+    "host": "ozon.ru",
+    "friendly_name": "🇰🇿 Kazakhstan free",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+  
+    "port": "80",
+    "host": "clipchamp.com",
+    "friendly_name": "🇲🇱 Mali mtn free",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+  
+    "port": "443",
+    "host": "auth.dmnglobal.net",
+    "friendly_name": "🇸🇾 Syria][MTN Free Internet",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+   "port": "80",
+   "host": "auth.dmnglobal.net",
+   "friendly_name": "🇸🇾الإنترنت المجاني جديد مثل سوريا",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "settings.dmnglobal.net",
+   "friendly_name": "🇸🇾الإنترنت المجاني جديد مثل سوريا",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "162.159.26.231",
+   "friendly_name": "🇸🇩 Sudan ZAIN Free Sd 🌍🛜",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "message": "🇸🇩 Free Sd Unlimited ",
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇸🇩 | Sudan Zain social pack 20 MB/Day",
+   "sausage": "web.whatsapp.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇸🇩MTN Sudan normal",
+   "sausage": "sudantribune.com",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "ssl",
+
+   "port": "80",
+   "host": "ecovent.zendesk.com",
+   "friendly_name": "🇸🇩 Sudani 20 gb",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "ns4.sybertechnology.com",
+   "friendly_name": "🇸🇩 Sudan zain mtn free new",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "sudantribune.com",
+   "friendly_name": "🇸🇩MTN Sudan NEW🍧",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "sslws": "true",
+ 
+   "port": "80",
+   "friendly_name": "🇹🇷 Turkey stanbul unlimited",
+   "payload": "GET http://cdn.digicelgroup.com/ HTTP/1.1[crlf]Host:\\nsdkapi.netmera.com[crlf]X-Online-Host:\\nsdkapi.netmera.com[crlf]Connection:X-Requested-With:cala-image.digicelcdn.net \\nws-mt1.pusher.com[crlf]X-Online-Host:\\ncala-live.digicelcdn.net[crlf]X-Online-Host:\\ncala-live.digicelcdn.net[crlf]Connection:X-Requested-With:sdkapi.netmera.com\\ncdn.digicelgroup.com[crlf]X-Online-Host: cdn.digicelgroup.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: cdn.digicelgroup.com[crlf][crlf][delay_split]CONNECT [host_port] [protocol][crlf][crlf]
+   "method": "http",
+  
+   "port": "443",
+   "host": "direct.asda.com",
+   "friendly_name": "🇵🇸 Palestine  FreeNet New",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+ 
+    "port": "80",
+    "host": "app.ubuntu.vm.co.mz",
+    "friendly_name": "🇲🇿 Mozambique free internet ",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇿 Mozambique free",
+   "sausage": "app.ubuntu.vm.co.mz",
+   "method": "ssl",
+  
+   "port": "443",
+   "friendly_name": "🇲🇿 Mozambique][Vodacom]",
+   "sausage": "app.ubuntu.vm.co.mz",
+   "method": "ssl",
+  
+   "port": "443",
+   "friendly_name": "🇸🇿 Swaziland][MTN Study",
+   "sausage": "moodle.org",
+   "method": "ssl",
+  
+   "port": "443",
+   "host": "104.18.23.52",
+   "friendly_name": "🇸🇿 Swaziland][MTN|FreeNet",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+ 
+   "port": "443",
+   "host": "go.crisp.chat",
+   "friendly_name": "🇦🇿 Azerbaijan][Azercell|Free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "aloe.umico.az",
+   "friendly_name": "🇦🇿 Azerbaijan][Azercell|Free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "104.17.70.206",
+   "friendly_name": "🇦🇿 Azerbaijan][Bakcell|Free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "moey.gov.jm",
+   "friendly_name": "🇯🇲 JAMAICA Jamtel Unlimited 1",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇯🇲 JAMAICA TCELL Unlimited",
+   "sausage": "www.mon.gow.jm",
+   "method": "ssl",
+   
+   "port": "443",
+   "host": "loans.jncb.com",
+   "friendly_name": "🇯🇲 JAMAICA Flow Unlimited 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇯🇲 Jamaica new free💯",
+   "sausage": "bezlimit.viber.com",
+   "method": "ssl",
+   
+   "port": "443",
+   "friendly_name": "🇯🇲 JAMAICA DIGICEL",
+   "sausage": "mda.digicelgroup.com",
+   "method": "ssl",
+   
+    "port": "443",
+    "host": "jncb.com",
+    "friendly_name": "🇯🇲 Jamaica An digicel",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "80",
+    "host": "108.157.30.35",
+    "friendly_name": "🇰🇭 Cambodia Metfone Tik Tok",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "1$ per month *1514*100#",
+    "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇰🇭 Cambodia Mobile Legends",
+   "sausage": "m.mobilelegends.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇰🇭 Cambodia Social Pack",
+   "sausage": "cdn.line.me",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇰🇭 Cambodia PUBG Mobile",
+   "sausage": "www.pubgmobile.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇰🇭 Cambodia Free Fire",
+   "sausage": "m.freefire.com",
+   "method": "ssl",
+
+    "port": "443",
+    "host": "auth.mtn.com.gn",
+    "friendly_name": "🇬🇳 | Guinea MTN Free 1",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "80",
+    "host": "auth.mtn.com.gn",
+    "friendly_name": "🇬🇳 | Guinea MTN Free 2",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: auth.mtn.com.gn[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "method": "http",
+  
+    "port": "80",
+    "host": "paquetes.miclaro.com.gt",
+    "friendly_name": "🇵🇦 Panama | Claro Free 💯 (2)",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: cdn.medallia.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "message": "💯 Internet Ilimitado 💯",
+    "method": "http",
+
+    "port": "443",
+    "host": "supportpa.digicelgroup.com",
+    "friendly_name": "🇵🇦 Panama digicell unlimited ",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+ 
+   "port": "443",
+   "host": "Pulled",
+   "friendly_name": "🇵🇦 Panama digicell unlimited ",
+   "sausage": "supportpa.digicelgroup.com",
+   "method": "ssl",
+ 
+   "port": "80",
+   "friendly_name": "🇵🇦 Panama digicell unlimited ",
+   "payload": "CONNECT [host_port]@supportpa.digicelgroup.com [protocol][crlf]Host: supportpa.digicelgroup.com[crlf]X-Online-Host: supportpa.digicelgroup.com[crlf]X-Forward-Host: supportpa.digicelgroup.com[crlf]X-Forwarded-For: supportpa.digicelgroup.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]
+   "method": "http",
+
+    "port": "443",
+    "host": "13.227.126.44",
+    "friendly_name": " 🇹🇯 Memleket Tacikistan free",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+ 
+    "port": "80",
+    "host": "13.227.126.44",
+    "friendly_name": " 🇹🇯 Memleket Tacikistan free 2",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+
+   "port": "443",
+   "host": "claropay.inbursa.com",
+   "friendly_name": "🇲🇽 Mexico | Telcel Redes 💯 (1)",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "1, 2, 3, 4, 6, 9",
+   "sslws": "true",
+
+   "port": "80",
+   "host": "13.226.153.123",
+   "friendly_name": "🇲🇽 Mexico ( Telcel Gratis )",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇽 MX Tcell Redes R1",
+   "sausage": "bolt-gcdn.sc-cdn.net",
+   "message": "🇲🇽R1.2.3.4.5.6.7.8.9🇲🇽",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "archive.vine.co",
+   "friendly_name": "🇲🇽 Mexico | AT & T CON REDES",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇲🇽 Mexico | Virgin SN SALDO",
+   "sausage": "chatbot-widget.virginmobile.mx",
+   "method": "ssl",
+
+   "port": "443"
+   "friendly_name": "🇲🇽 Mexico | Flash Mobile ",
+   "sausage": "status-porta.flashmobile.mx",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "13.32.87.241",
+   "friendly_name": "🇲🇽 Mexico | Telcel FreeNet",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "glbprod.apimovistarmx.movistar.com.mx",
+   "friendly_name": "🇲🇽 Mexico | movie star",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "18.65.4.246",
+   "friendly_name": "🇲🇽 Mexico | Telcel Redes",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "18.65.4.246",
+   "friendly_name": "🇲🇽 Mexico | Telcel Free -",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "friendly_name": "🇲🇽 Mexico | Yotelco RDS Zero",
+   "sausage": "mobile.twitter.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇲🇽 Mexico | Yotelco RDS Zero",
+   "sausage": "www.coronavirus.gob.mx",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇲🇽 Mexico | Movie Star ⭐ RDS 0",
+   "sausage": "status.twitter.com",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇲🇽 Mexico | unefon rds",
+   "sausage": "web.facebook.com",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "13.32.87.241",
+   "friendly_name": "🇲🇽 Mexico | Tecel Net",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+ 
+   "port": "443",
+   "host": "glbprod.apimovistarmx.movistar.com.mx",
+   "friendly_name": "🇲🇽 Mexico | Movie Star ",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+ 
+   "port": "443",
+   "friendly_name": "🇲🇽 YOTELCO RDS ZERO BALANCE",
+   "sausage": "mobile.twitter.com",
+   "method": "ssl",
+  
+   "port": "443",
+   "friendly_name": "🇲🇽 𝗠𝗼𝘃𝗶𝘀𝘁𝗮𝗿 𝖬𝖾𝗑𝗂𝖼𝗈",
+   "sausage": "u.mitec.com.mx",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "cdn.segment.com",
+   "friendly_name": "🇨🇴 TIGO COLOMBIA ⭐",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇨🇴 Movistar Colombia REDES W 🌟",
+   "sausage": "cdn.whatsapp.net",
+   "method": "ssl",
+
+   "port": "443",
+   "host": "appboy-images.com",
+   "friendly_name": "🇨🇴 Colombia | Claro Waze",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🚕 Waze Pack 🚕",
+   "sslws": "true",
+
+   "port": "443",
+   "host": "compras.tigo.com.co",
+   "friendly_name": "🇨🇴 Colombia | Tigo 2023 💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Internet Ilimitado 💯",
+   "sslws": "true",
+
+   "port": "80",
+   "host": "ekr.zdassets.com",
+   "friendly_name": "🇨🇴 Claro Colombia WAZE🌟 fix",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "ekr.zdassets.com",
+   "friendly_name": "🇨🇴 CLORO🔴WAZE COLOMBIA",
+   "payload": "HEAD / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "investors.spotify.com",
+   "friendly_name": "🇨🇴 Wom Spotify Colombia",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "104.16.53.111",
+   "friendly_name": "🇨🇴 ColombiaTigo full",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+    "port": "443",
+    "host": "m-miclaro.claro.com.ar",
+    "friendly_name": "🇦🇷 Argentina][Claro|Free Net",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "443",
+    "host": "www2.claro.com.ar",
+    "friendly_name": "🇦🇷 Argentina][Claro|Free Net",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+
+    "port": "80",
+    "host": "argentina.gob.ar",
+    "friendly_name": "🇦🇷 PERSONAL NUEVO FREE",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: argentina.gob.ar[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "method": "http",
+
+    "port": "443",
+    "host": "backend-cuhc-verano.argentina.gob.ar",
+    "friendly_name": "🇦🇷 PERSONAL free 2",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+  
+   "port": "443",
+   "host": "unpkg.com",
+   "friendly_name": "🇦🇷 𝗠𝗼𝘃𝗶𝘀𝘁𝗮𝗿 𝖠𝗋𝗀𝖾𝗇𝗍𝗂𝗇𝖺",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+    "port": "443",
+    "host": "apiclaroid.claropay.com",
+    "friendly_name": "🇦🇷 Argentina | Claro Free",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "💯 Internet Ilimitado 💯",
+    "sslws": "true",
+
+    "port": "443",
+    "host": "backend-cuhc-verano.argentina.gob.ar",
+    "friendly_name": "🇦🇷 Argentina | Personal Claro💯",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: backend-cuhc-verano.argentina.gob.ar[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "🇦🇷 Argentina Claro FreeNet",
+    "sslws": "true",
+
+    "port": "443",
+    "host": "unpkg.com",
+    "friendly_name": "🇦🇷 Argentina | Movie ⭐",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]
+    "message": "⭐ Movie Pack ⭐",
+    "sslws": "true",
+  
+    "port": "80",
+    "host": "extranet.ungs.edu.ar",
+    "friendly_name": "🇦🇷 PERSONAL FREE NEW",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: cdn.medallia.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "method": "http",
+  
+    "port": "443",
+    "host": "apiclaroid.claropay.com",
+    "friendly_name": "🇵🇪 Peru | Claro Free 🆕",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "💯 Internet Ilimitado 💯",
+    "sslws": "true",
+
+   "friendly_name": "🇵🇪 Peru | Movistar YouTube 1GB",
+   "sausage": "www.youtube.com",
+   "method": "ssl",
+  
+   "port": "443",
+   "host": "investors.spotify.com",
+   "friendly_name": "🇵🇪 𝗠𝗼𝘃𝗶𝘀𝘁𝗮𝗿 𝖯𝖾𝗋𝗎 🆂︎🅿︎🅾︎🆃︎🅸︎🅵︎🆈︎",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "cdn.easypay.ua",
+   "friendly_name": " 🇺🇬 Uganda airtel free new",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "cdn.easypay.ua",
+   "friendly_name": "🇺🇬 Uganda airtel free new 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: cdn.easypay.ua[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "13.227.85.92",
+   "friendly_name": "🇵🇾 Paraguay | Tigo Frer💯",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: tigo.com.py[rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Internet Ilimitado 💯",
+   "sslws": "true",
+ 
+   "port": "443",
+   "host": "65.8.214.60",
+   "friendly_name": "🇵🇾 TIGO PARAGUAY GRÁTIS",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "friendly_name": "🇵🇾Paraguay Parsonal free",
+   "payload": "PROPPATCH /READY/ h.facebook.com HTTP/1.2[lf]Host: pgslot.to[lf][lf]BDELETE h2://backcoronapp.argentina.gob.ar HTTP/1.2[lf]Host: pablovps22.vpsvip.com.ar[lf]Upgrade: websocket[lf]PROPPATCH /READY/ HTTP/1.2[lf]Host: m.youtube.com[lf]Upgrade: websocket[lf]Expect: 100continue[lf][lf]ACL /TebaN42/ HTTP/1.1[lf]Host: pablovps22.vpsvip.com.ar[lf]Expect: 100continue[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]UserAgent: Googlebot/2.1[lf][ua][crlf][crlf]
+   "method": "http",
+  
+    "port": "443",
+    "host": "65.8.214.60",
+    "friendly_name": "🇵🇾 Paraguay TIGO NEW 🔛🔛",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "sslws": "true",
+  
+    "port": "80",
+    "host": "www.tigomoney.com",
+    "friendly_name": "🇧🇴🇸🇻🇬🇹🇭🇳🇵🇾 Tigo | Multi Pais",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: www.tigomoney.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+    "message": "💯 Internet Ilimitado 💯",
+    "sslws": "false",
+ 
+    "port": "443",
+    "host": "help.hotjar.com",
+    "friendly_name": "🇧🇴 Bolivia | Tigo Free 💯",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "💯 Internet Ilimitado 💯",
+    "sslws": "true",
+  
+    "port": "80",
+    "host": "104.17.72.206",
+    "friendly_name": "🇧🇴 Bolivia Entel SIN SALDO",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "🇧🇴 Bolivia Entel SIN SALDO FREE INTEREST ",
+    "method": "http",
+  
+   "port": "80",
+   "host": "Zoomcares.zoom.us",
+   "friendly_name": "🇧🇴 BO | Entel_pqt education"
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "www.newmetrics.net",
+   "friendly_name": "🇩🇿 Algeria | Ooredoo Free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Internet Ilimitado 💯",
+   "method": "http",
+
+   "port": "80",
+   "host": "www.bughost.com",
+   "friendly_name": "🇩🇿 ALGEBRA ( Ooredoo mobillis ) Free Internet ",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇩🇿 ALGEBRA 100% Good Working Free ",
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇩🇿 ALGEBRA 100% Good Working Free ",
+   "sausage": "wl.linkedin.com",
+   "message": "[🇩🇿] Algeria Dz ",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇩🇿 Algeria ooreoo free new",
+   "sausage": "cpanel.djezzy.dz",
+   "method": "ssl",
+
+   "port": "443",
+   "friendly_name": "🇩🇿 Algeria_ooredoo-new💯💯",
+   "sausage": "cpanel.djezzy.dz",
+   "payload": "cpanel.djezzy.dz",
+   "method": "direct",
+
+   "port": "443",
+   "host": "origin.api.amxrest.net",
+   "friendly_name": "🇧🇷 Brazil | Claro Free 💯 🆕",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🇧🇷 Brazil | Claro Free 💯 🆕",
+   "sslws": "true",
+
+   "port": "80",
+   "host": "52.84.83.128",
+   "friendly_name": "🇧🇷 BRAZIL VIVO  FRONT NOVO 1",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Funciona 💯",
+   "method": "http",
+
+   "port": "80",
+   "host": "52.85.34.50",
+   "friendly_name": "🇧🇷 Brazil Claro novo",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "Api.sandbox.c6bank.com.br",
+   "friendly_name": "🇧🇷 Brazil all net free ###",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "all Brazil try all sim",
+
+   "port": "443",
+   "host": "ayuda.tigo.com.bo",
+   "friendly_name": "🇧🇷 VIVO NETWORK DATA (2)",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "ayuda.tigo.com.bo",
+   "friendly_name": "🇧🇷 VIVO Network Data (3)",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+ 
+   "port": "80",
+   "host": "108.158.161.16",
+   "friendly_name": "🇧🇷 BR-VIVO free 💯💯",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "104.18.27.160",
+   "friendly_name": "🇧🇷 Tim rápida padrão 100%",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "metadatadb.lab.smartcontent.clarobrasil.mobi",
+   "friendly_name": "🇧🇷 Brazil Claro - 3",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+ 
+   "port": "443",
+   "host": "www.hbogo.com.br",
+   "friendly_name": "🇧🇷 BR-OI",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "104.16.51.111",
+   "friendly_name": "🇧🇷 BR-INJECT PROXY 1 (Regioes)",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "162.159.133.62",
+   "friendly_name": "🇧🇷 BR-NJECT PROXY 2 (Regioes)",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "recarga.vivo.com.br",
+   "friendly_name": "🇧🇷 BR-CDN NOVO TLS 3 (IPV4 APN)",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "52.85.213.82",
+   "friendly_name": "🇧🇷 BR-CDN NOVO TLS 5 (TODOS DDD",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "CDN NOVO",
+   "method": "http",
+ 
+   "port": "80",
+   "host": "104.16.53.111",
+   "friendly_name": "🇧🇷 BR-INJECT TLS 7 OK vivo",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "OK vivo",
+   "method": "http",
+ 
+   "port": "80",
+   "host": "oii.gdmhost.ga",
+   "friendly_name": "🇧🇷 BR-INJECT PROXY 20 ic_oi",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "104.16.53.91",
+   "friendly_name": "🇧🇷 BR-INJECT TLS 23 ic_o",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "workplaceservices.surveymonkey.com",
+   "friendly_name": "🇧🇷 BR-IM SALDO EXPIRADO",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "Pulled",
+   "friendly_name": "🇧🇷 BR-SV2 br.png",
+   "payload": "CONNECT [host_port] HTTP/1.1[crlf]CONNECT http://svfree3tr.gdmhost.ga/ HTTP/1.1[crlf]X-Online-Host: svfree3tr.gdmhost.ga[crlf]X-Forward-Host: svfree3tr.gdmhost.ga[crlf]Host: svfree3tr.gdmhost.ga[crlf]X-Forwarded-For: svfree3tr.gdmhost.ga[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "planos3-assine-empresas.clarobrasil.mobi",
+   "friendly_name": "🇧🇷 Brazil CLARO 02 FreeNet",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "server-52-85-213-82.gru1.r.cloudfront.net",
+   "friendly_name": "🇧🇷 Brazil Vivo Sim FreeNet 1",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "Pulled",
+   "friendly_name": "🇧🇷 BR-CLARO PLANOS 3",
+   "sausage": "dns.web.whatsapp.com","",
+   "method": "ssl",
+
+  
+   "port": "443",
+   "host": "162.159.130.62",
+   "friendly_name": "🇧🇷 Brazil Vivo Tim Claro",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "mobile.c6bank.app",
+   "friendly_name": "🇧🇷 Brazil Tim val",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "80",
+   "host": "104.16.122.175",
+   "friendly_name": "🇧🇷 Brazil Vivo Sim FreeNet 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "443",
+   "host": "duvidas.ampli.com.br",
+   "friendly_name": "🇧🇷 BR-TIM REGIÕES 5",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "auth-uat-us.surveymonkey.com",
+   "friendly_name": "🇧🇷 BR-TIM REGIÕES 8",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "host": "workplaceservices.surveymonkey.com",
+   "friendly_name": "🇧🇷 BR-TIM REGIÕES ##",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: ayuda.tigo.com.bo[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "443",
+   "friendly_name": "🇮🇳 🇿🇦India Vodafone manipur Free💃",
+   "sausage": "connectivitycheck.gstatic.com",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "manipur Location ",
+   "method": "ssl",
+
+   "port": "80",
+   "host": "delcodental.com",
+   "friendly_name": "🇮🇳 India { Jio Daily Data } Rajasthan1️"
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]
+   "message": "🙂 Kashmir States Working 🙂",
+   "method": "http",
+
+   "port": "80",
+   "host": "hostjio.com",
+   "friendly_name": "🇮🇳 INDIA { JIO FREE } Kashmir1️⃣",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "India Rajasthan1️Choose Normal Server ✔",
+   "method": "http",
+
+   "port": "443",
+   "friendly_name": "🇮🇳 INDIA | All Try CGP 100%1️⃣",
+   "sausage": "ind.akheternalvpn.ml",
+   "payload": "ind.akheternalvpn.ml",
+   "method": "direct",
+ 
+   "port": "80",
+   "host": "vercel.back4app.com",
+   "friendly_name": "🇮🇳 INDIA | JIO FREE | New 2023",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "104.16.59.5",
+   "friendly_name": "🇮🇳 INDIA | JIO FREE | 3",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: assets.unionbank.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "message": "INDIA",
+   "method": "http",
+
+   "port": "80",
+   "host": "back4app.com",
+   "friendly_name": "🇮🇳 INDIA | All Sim WI-FI ✔️",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "INDIA",
+   "method": "http",
+
+   "port": "80",
+   "host": "phonepe.com",
+   "friendly_name": "🇮🇳 India| Jio Packg | Daily Unlimited3️⃣",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "India |",
+   "method": "http",
+
+   "port": "80",
+   "host": "104.21.11.85",
+   "friendly_name": "🇮🇳 India | Jio Free ( Kashmir Area",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "message": "INDIA ",
+   "method": "http",
+ 
+   "port": "443",
+   "host": "104.21.31.85",
+   "friendly_name": "🇮🇳 INDIA[JIO FREE New][2023]",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "message": "INDIA ",
+   "sslws": "true",
+
+   "port": "80",
+   "host": "104.21.31.85",
+   "friendly_name": "🇮🇳 India Kasmir jio free 💯✅",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]
+   "method": "http",
+
+
+
+  
+
+
+    "port": "443",
+    "host": "d216901qxcl0k5.cloudfront.net",
+    "friendly_name": "🇱🇰 Dialog zero new",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "(100% working)",
+    "sslws": "true",
+ 
+   "port": "443",
+   "friendly_name": " 🇱🇰 LK_ hutch unlimited ",
+   "sausage": "oneapp.hutch.lk",
+   "message": "♥️ Good Working ♥",
+   "method": "ssl",
+
+
+    "port": "443",
+    "host": "d1xwjjoo217kc7.cloudfront.net",
+    "friendly_name": "🇬🇧 Vodafoneuk FREE",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "NEW UPDATED",
+    "sslws": "true",
+   
+    "port": "80",
+    "host": "104.18.12.192",
+    "friendly_name": "🇬🇧 UK TREE FREE NEW🚭",
+    "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+    "method": "http",
+
+   "port": "80",
+   "host": "o2.pluschannel.co.uk",
+   "friendly_name": "🇬🇧 o2 working free new",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: o2.pluschannel.co.uk[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+ 
+   "port": "443",
+   "host": "o2.pluschannel.co.uk",
+   "friendly_name": "🇬🇧 o2 working free new 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+  
+   "port": "443",
+   "host": "104.22.32.111",
+   "friendly_name": "🇬🇧 UK][All Operator Free Internet]",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "[🇬🇧",
+   "sslws": "true",
+  
+    "port": "443",
+    "host": "three-cust.hcaptcha.com",
+    "friendly_name": "🇬🇧 All United Kingdom Sim",
+    "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+    "message": "♥️ Good Working ♥️\"",
+    "sslws": "true",
+   
+   "port": "443",
+   "host": "server-52-84-96-169.nbo50.r.cloudfront.net",
+   "friendly_name": "🇧🇿 Belize movister-fast free",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "sslws": "true",
+
+   "port": "80",
+   "host": "52.85.96.26",
+   "friendly_name": "🇦🇺 Australia All networks",
+   "sausage": "",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "message": "ALDI mobile, amaysim, Belong Mobile, Boost mobile, Catch Connect, dodo, exetel, gotalk, Hello Mobile, Kogan Mobile, Lebara mobile, Lycamobile, TPG, Vaya, yomojo",
+   "method": "http",
+
+   "port": "443",
+   "host": "floristwithflowers.com.au",
+   "friendly_name": "🇦🇺 Australia-all Love you",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Internet Ilimitado 💯",
+   "sslws": "true",
+
+   "port": "80",
+   "host": "paquetes.miclaro.com.hn",
+   "friendly_name": "🇭🇳 Honduras | Claro Free 💯",
+   "sausage": "",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: paquetes.miclaro.com.hn[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "method": "http",
+
+   "port": "80",
+   "host": "cdn.medallia.com",
+   "friendly_name": "🇭🇳 Honduras | Claro Free 💯 (2)",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: cdn.medallia.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]
+   "message": "💯 Internet Ilimitado 💯",
+   "method": "http",
+
+   "port": "80",
+   "host": "13.226.29.22",
+   "friendly_name": "🇭🇳 Honduras Tigo AWS ",
+   "sausage": "",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "method": "http",
+  
+   "port": "80",
+   "host": "108.139.182.55",
+   "friendly_name": "🇭🇳Honduras tigo free",
+   "payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Internet Ilimitado 💯",
+   "method": "http",
+
+   "port": "443",
+   "host": "108.139.182.55",
+   "friendly_name": "🇭🇳 Honduras tigo free 2",
+   "payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]
+   "message": "💯 Internet Ilimitado 💯",
+   "sslws": "true",
+
+
