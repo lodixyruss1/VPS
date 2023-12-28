@@ -1,145 +1,87 @@
 #!/bin/bash
-
 ## Copyright ©UDPTeam
-
-## Discord: https://discord.gg/civ3
-
 ## Script to keep-alive your DNSTT server domain record query from target resolver/local dns server
-
 ## Run this script excluded to your VPN tunnel (split vpn tunneling mode)
-
-## run command: ./globe-experiment.sh l
-
-
+## run command: ./globe-civ3.sh l
 
 ## Your DNSTT Nameserver & your Domain `A` Record
-
 NS='4bgf.wampipti.net'
 NS1='bg4e.wampipti.net'
 NS2='mk53.wampipti.net'
 A='wampipti.net'
-A1='wampipti.net'
-A2='wampipti.net'
 
-## Repeat dig cmd loop time (seconds) (positive interger only)
-
-LOOP_DELAY=5
-
-
+## Repeat dig cmd loop time (seconds) (positive integer only)
+LOOP_DELAY=1
 
 ## Add your DNS here
-
 declare -a HOSTS=('124.6.181.4' '124.6.181.20'112.198.115.44'112.198.126.116'124.6.181.36'124.6.181.12'124.6.181.12'124.6.181.25'112.198.115.60'121.54.70.170'121.54.70.150'10.0.0.1'10.0.0.0'192.53.172.50'124.40.228.1'103.86.50.133'49.0.72.60'124.40.229.69'124.40.228.1')
 
-
-
 ## Linux' dig command executable filepath
-
 ## Select value: "CUSTOM|C" or "DEFAULT|D"
-
 DIG_EXEC="DEFAULT"
-
 ## if set to CUSTOM, enter your custom dig executable path here
-
 CUSTOM_DIG=/data/data/com.termux/files/home/go/bin/fastdig
 
-
-
 ######################################
-
 ######################################
-
 ######################################
-
 ######################################
-
 ######################################
-
-VER=0.1
+LOG_FILE="dns_keep_alive.log"
 
 case "${DIG_EXEC}" in
-
- DEFAULT|D)
-
- _DIG="$(command -v dig)"
-
- ;;
-
- CUSTOM|C)
-
- _DIG="${CUSTOM_DIG}"
-
- ;;
-
+DEFAULT|D)
+    _DIG="$(command -v dig)"
+    ;;
+CUSTOM|C)
+    _DIG="${CUSTOM_DIG}"
+    ;;
 esac
 
-if [ ! $(command -v ${_DIG}) ]; then
-
- printf "%b" "Dig command failed to run, " \
-
- "please install dig(dnsutils) or check " \
-
- "\$DIG_EXEC & \$CUSTOM_DIG variable inside $( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )/$(basename "$0") file.\n" && exit 1
-
+if [ ! "$(${_DIG} --version)" ]; then
+    printf "%b" "Dig command failed to run, " \
+    "please install dig(dnsutils) or check " \
+    "\$DIG_EXEC & \$CUSTOM_DIG variable inside $( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )/$(basename "$0") file.\n" && exit 1
 fi
 
-endscript() {
-
- unset NS NS1 NS2 A A1 A2 LOOP_DELAY HOSTS _DIG DIG_EXEC CUSTOM_DIG T R M
-
- exit 1
-
+log() {
+    local timestamp
+    timestamp=$(date "+%Y-%m-%d %H:%M:%S")
+    echo "[$timestamp] $1" >> "$LOG_FILE"
 }
 
-trap endscript 2 15
-
-check(){
-
- for ((i=0; i<"${#HOSTS[*]}"; i++)); do
-
-  for R in "${A}" "${A1}" "${A2}" "${NS}" "${NS1}" "${NS2}"; do
-
-   T="${HOSTS[$i]}"
-   [[ -z $(timeout -k 3 3 ${_DIG} @${T} ${R}) ]] && M=31 || M=32;
-   echo -e "\e[1;${M}m\$ R:${R} D:${T}\e[0m"
-   unset T R M
-  done
- done
+check() {
+    for ((i=0; i<"${#HOSTS[*]}"; i++)); do
+        for R in "${A}" "${NS}" "${NS1}" "${NS2}"; do
+            T="${HOSTS[$i]}"
+            if [[ -z $(timeout -k 10 10 "${_DIG}" @"${T}" "${R}") ]]; then
+                M=31
+                log "Error: Resolver ${T} for ${R} is unreachable."
+            else
+                M=32
+            fi
+            echo -e "\e[1;${M}m\$ R:${R} D:${T}\e[0m"
+            unset T R M
+        done
+    done
 }
 
-
-echo "DNSTT Keep-Alive script <Discord @civ3>"
-
+echo "DNSTT Keep-Alive script <Lantin Nohanih>"
 echo -e "DNS List: [\e[1;34m${HOSTS[*]}\e[0m]"
-
 echo "CTRL + C to close script"
-
-[[ "${LOOP_DELAY}" -eq 1 ]] && let "LOOP_DELAY++";
-
+((LOOP_DELAY++))
 case "${@}" in
-
- loop|l)
-
- echo "Script loop: ${LOOP_DELAY} seconds"
-
- while true; do
-
-  check
-
-  echo '.--. .-.. . .- ... .     .-- .- .. -'
-
-  sleep ${LOOP_DELAY}
-
- done
-
- ;;
-
- *)
-
- check
-
- ;;
-
+loop|l)
+    echo "Script loop: ${LOOP_DELAY} seconds"
+    while true; do
+        check
+        echo '.--. .-.. . .- ... .     .-- .- .. -'
+        sleep ${LOOP_DELAY}
+    done
+    ;;
+*)
+    check
+    ;;
 esac
 
 exit 0
