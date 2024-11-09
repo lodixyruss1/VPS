@@ -1,0 +1,3829 @@
+{
+  "info": {
+    "author": "NullptrO",
+    "description": "I am passionate about decryption and developing scripts that provide effective and flexible solutions for a wide range of applications. My projects are powerful tools for interacting with VPN technologies and are available for sale to meet the diverse needs of users. I believe that technology should be accessible to everyone, and I strive to offer innovative solutions that enhance user security and privacy."
+  },
+  "Version": "1.1.73",
+  "Servers": [
+    {
+      "Name": "Workers Server v2ray 1️⃣",
+      "ServerIPHost": "rev-tunneler.vpn.janyx.dns.army",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "rev-tunneler.vpn.janyx.dns.army",
+        "UUID": "c0c94673-fd77-48e0-9732-e00297b821e0",
+        "PATH": "/?ed=TrinetProRebornistheBest",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 2️⃣",
+      "ServerIPHost": "watchik-dns.janyx.dns.army",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "jp",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "watchik-dns.janyx.dns.army",
+        "UUID": "db207677-d8a0-4718-afec-f3ba4ea50ed0",
+        "PATH": "/?ed=TrinetProReborn",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 3️⃣",
+      "ServerIPHost": "ishiki.senpai.janyx.dns.army",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "ishiki.senpai.janyx.dns.army",
+        "UUID": "a1114596-cee9-4c3e-a123-b0cabb1807f9",
+        "PATH": "/?ed=TrinetProReborn",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 4️⃣",
+      "ServerIPHost": "bPB.JAnYXCLub.us.kG",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "hk",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "bPB.JAnYXCLub.us.kG",
+        "UUID": "308ca266-dea1-4263-8142-25f96e039fa7",
+        "PATH": "/lJ9DINdZXeQDw0bL/MTA0LjIwLjIyOS4zMg==?ed=2560",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 5️⃣",
+      "ServerIPHost": "trinet-dns.janyxclub.us.kg",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "de",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "trinet-dns.janyxclub.us.kg",
+        "UUID": "f5c215f6-2c65-4d09-bd53-919bcef1b1b9",
+        "PATH": "TrinetProReborn",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 6️⃣",
+      "ServerIPHost": "trpchoi.pages.dev",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "trpchoi.pages.dev",
+        "UUID": "f398fc6d-f88e-44fd-a045-6b237f618769",
+        "PATH": "/?ed=2048",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 7️⃣",
+      "ServerIPHost": "kiffy6.janyx.dns-dynamic.net",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "kiffy6.janyx.dns-dynamic.net",
+        "UUID": "a7171ae9-3154-44d0-9d92-ba41680df540",
+        "PATH": "/?ed=TrinetPro",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 8️⃣",
+      "ServerIPHost": "kiffy5.janyx.dns-dynamic.net",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "kiffy5.janyx.dns-dynamic.net",
+        "UUID": "a7171ae9-3154-44d0-9d92-ba41680df540",
+        "PATH": "/?ed=TrinetPro",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 9️⃣",
+      "ServerIPHost": "yashashemi.janyx.v6.army",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "hk",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "yashashemi.janyx.v6.army",
+        "UUID": "abe7fa4b-f6f2-4d1d-9b12-ff1e508269fa",
+        "PATH": "/?ed=2048",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Workers Server v2ray 🔟",
+      "ServerIPHost": "trptunzxc.pages.dev",
+      "Subname": "Workers V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "trptunzxc.pages.dev",
+        "UUID": "6f620520-2837-4b53-8e10-325bfacae715",
+        "PATH": "/?ed=2560",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "DNSTT Server 1️⃣",
+      "ServerIPHost": "th1dns.dns-internet.com",
+      "Subname": "Premium DNSTT 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 5,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "ToZp1lwDc6",
+      "Password": "F2eJb9NleS",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "SlowDNS": {
+        "NSNameServer": "th1dns.dns-internet.com",
+        "PubKey": "1dfcefdd83841990e530727c50460c9790d9bcaeab1405c7d70856ffa2a6c967"
+      }
+    },
+    {
+      "Name": "Gaming Server v2ray 1️⃣",
+      "ServerIPHost": "newtrptunnel.pages.dev",
+      "Subname": "Workers V2ray 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "newtrptunnel.pages.dev",
+        "UUID": "e184f01b-48bf-4b15-9e3d-603bcb90fdf3",
+        "PATH": "/newTRPTunnel",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Gaming Server v2ray 2️⃣",
+      "ServerIPHost": "newtrptunnel.pages.dev",
+      "Subname": "Workers V2ray 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "newtrptunnel.pages.dev",
+        "UUID": "e184f01b-48bf-4b15-9e3d-603bcb90fdf3",
+        "PATH": "/newTRPTunnel",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Gaming Server v2ray 3️⃣",
+      "ServerIPHost": "newtrptunnel.pages.dev",
+      "Subname": "Workers V2ray 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "newtrptunnel.pages.dev",
+        "UUID": "e184f01b-48bf-4b15-9e3d-603bcb90fdf3",
+        "PATH": "/newTRPTunnel",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Gaming Server v2ray 4️⃣",
+      "ServerIPHost": "trptunzxc.pages.dev",
+      "Subname": "Workers V2ray 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "trptunzxc.pages.dev",
+        "UUID": "6f620520-2837-4b53-8e10-325bfacae715",
+        "PATH": "/?ed=2560",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "Gaming Server v2ray 5️⃣",
+      "ServerIPHost": "trptunnel2.pages.dev",
+      "Subname": "Workers V2ray 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "trptunnel2.pages.dev",
+        "UUID": "914a5683-01dd-4489-a9cf-b9cd3c8e2e4b",
+        "PATH": "/?ed=2048",
+        "DNSMode": 2
+      }
+    },
+    {
+      "Name": "CDN Server V2ray 1️⃣",
+      "ServerIPHost": "xm.ailicf.us.kg",
+      "Subname": "Fast and Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "xm.ailicf.us.kg",
+        "UUID": "6511e6ad-0383-48cd-a5b8-00e4a4c82655",
+        "PATH": "/6511e",
+        "DNSMode": 1
+      }
+    },
+    {
+      "Name": "CDN Server V2ray 2️⃣",
+      "ServerIPHost": "abc.vpneee.top",
+      "Subname": "Fast and Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "abc.vpneee.top",
+        "UUID": "8250d638-45df-41fa-b06f-160d1cb1de0c",
+        "PATH": "/YnqGMcAt/",
+        "DNSMode": 1
+      }
+    },
+    {
+      "Name": "CDN Server V2ray 3️⃣",
+      "ServerIPHost": "abc.vpneee.top",
+      "Subname": "Fast and Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": true,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "abc.vpneee.top",
+        "UUID": "8250d638-45df-41fa-b06f-160d1cb1de0c",
+        "PATH": "/YnqGMcAt/",
+        "DNSMode": 1
+      }
+    },
+    {
+      "Name": "CDN Server V2ray 4️⃣",
+      "ServerIPHost": "da.ylks.xyz",
+      "Subname": "Fast and Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "da.ylks.xyz",
+        "UUID": "a13df940-020c-465f-bc89-ee5279b5cd6a",
+        "PATH": "/blue",
+        "DNSMode": 1
+      }
+    },
+    {
+      "Name": "CDN Server V2ray 5️⃣",
+      "ServerIPHost": "oplist-us3.dnss.cc",
+      "Subname": "Fast and Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "jp",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "oplist-us3.dnss.cc",
+        "UUID": "6d8e7bd1-de2b-4188-bc9d-999d1602dd0b",
+        "PATH": "/anything/openproxylist.com-brittanjeremiah/vless",
+        "DNSMode": 1
+      }
+    },
+    {
+      "Name": "Premium Server v2ray 1️⃣",
+      "ServerIPHost": "151.101.108.158",
+      "Subname": "Fastly DNS V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "de",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 0,
+        "V2RayHost": "xmivideo.cfd",
+        "UUID": "93ea486a-bada-42a4-ac38-d088b320fa1e",
+        "PATH": "/linkws",
+        "DNSMode": 0
+      }
+    },
+    {
+      "Name": "Premium Server v2ray 2️⃣",
+      "ServerIPHost": "151.101.40.159",
+      "Subname": "Fastly DNS V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "gb",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 3,
+        "V2RayHost": "uk-full.privateip.net",
+        "UUID": "3da59d94-3c9e-4630-a86e-fd60559b4a5b",
+        "PATH": "/VLESS",
+        "DNSMode": 0
+      }
+    },
+    {
+      "Name": "Premium Server v2ray 3️⃣",
+      "ServerIPHost": "151.101.40.159",
+      "Subname": "Fastly DNS V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 0,
+        "V2RayHost": "Hamzavip.org",
+        "UUID": "eb94be1f-dc56-43f7-9dd5-c339226f9892",
+        "PATH": "/RACEVPN",
+        "DNSMode": 0
+      }
+    },
+    {
+      "Name": "Premium Server v2ray 4️⃣",
+      "ServerIPHost": "151.101.40.159",
+      "Subname": "Fastly DNS V2RAY 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 4,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "ca",
+      "Obfs": "",
+      "Username": "",
+      "Password": "",
+      "UseCustomCert": false,
+      "CustomCert": "",
+      "V2Ray": {
+        "V2RayType": 0,
+        "V2RayHost": "ezeefastbvv.com.global.prod.fastly.net",
+        "UUID": "f3c134d0-9308-11ef-b730-205c6d5f5d78",
+        "PATH": "/oiwc2kyx",
+        "DNSMode": 0
+      }
+    },
+    {
+      "Name": "OVPN Global Server 1️⃣",
+      "ServerIPHost": "hxt.berberrynet.xyz",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "dontfollo",
+      "Password": "buyyourow",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 2️⃣",
+      "ServerIPHost": "ab1.berberrynet.xyz~ra.berberrynet.xyz~pop.berberrynet.xyz",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "dontfollo",
+      "Password": "buyyourow",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 3️⃣",
+      "ServerIPHost": "hxt.berberrynet.xyz",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "jp",
+      "Obfs": "",
+      "Username": "dontfollo",
+      "Password": "buyyourow",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 4️⃣",
+      "ServerIPHost": "mh11.mhtunnel.com",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "id",
+      "Obfs": "",
+      "Username": "mh6942934",
+      "Password": "mh6942934",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 5️⃣",
+      "ServerIPHost": "mh33.mhtunnel.com",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "ca",
+      "Obfs": "mh9920016",
+      "Username": "mh6942934",
+      "Password": "mh6942934",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 6️⃣",
+      "ServerIPHost": "ts41.rasedmx.xyz~rs1.rasedmx.xyz~rs2.rasedmx.xyz~rs3.rasedmx.xyz~R1.rasedmx.xyz~R2.rasedmx.xyz~R3.rasedmx.xyz~R4.rasedmx.xyz~R5.rasedmx.xyz~R7.rasedmx.xyz~R8.rasedmx.xyz~R9.rasedmx.xyz~R10.rasedmx.xyz~Ov27.rasedmx.xyz~Rs54.rasedmx.xyz~Rs55.rasedmx.xyz~Rs56.rasedmx.xyz~Rs57.rasedmx.xyz~Rs58.rasedmx.xyz~Rs59.rasedmx.xyz~Rs60.rasedmx.xyz~Rs61.rasedmx.xyz~Ts48.rasedmx.xyz~O1.rasedmx.xyz~O2.rasedmx.xyz~df1.rasedmx.xyz~df2.rasedmx.xyz~df3.rasedmx.xyz~df4.rasedmx.xyz~df5.rasedmx.xyz~df6.rasedmx.xyz~df7.rasedmx.xyz~df8.rasedmx.xyz~df9.rasedmx.xyz~df10.rasedmx.xyz~df12.rasedmx.xyz~df13.rasedmx.xyz~df14.rasedmx.xyz~df15.rasedmx.xyz~df16.rasedmx.xyz~df17.rasedmx.xyz~df19.rasedmx.xyz~df20.rasedmx.xyz~df21.rasedmx.xyz~df22.rasedmx.xyz~df23.rasedmx.xyz~df24.rasedmx.xyz~df25.rasedmx.xyz~df26.rasedmx.xyz~df27.rasedmx.xyz~df28.rasedmx.xyz~df30.rasedmx.xyz~ds1.rasedmx.xyz~ds2.rasedmx.xyz~ds3.rasedmx.xyz~ds5.rasedmx.xyz~ds6.rasedmx.xyz~ds7.rasedmx.xyz~ds8.rasedmx.xyz~Ds9.rasedmx.xyz~Ds10.rasedmx.xyz~Ds11.rasedmx.xyz~Ds12.rasedmx.xyz~ds13.rasedmx.xyz~Ds14.rasedmx.xyz~Ds16.rasedmx.xyz~Ds17.rasedmx.xyz~Ds18.rasedmx.xyz~Ds19.rasedmx.xyz~Ds20.rasedmx.xyz~Rs1.rasedmx.xyz~Rs2.rasedmx.xyz~Rs3.rasedmx.xyz~Rs4.rasedmx.xyz~Rs5.rasedmx.xyz~Rs6.rasedmx.xyz~Rs7.rasedmx.xyz~Rs8.rasedmx.xyz~Rs9.rasedmx.xyz~Rs10.rasedmx.xyz~ms2.rasedmx.xyz~ms3.rasedmx.xyz~ms4.rasedmx.xyz~ms5.rasedmx.xyz~ms6.rasedmx.xyz~ms7.rasedmx.xyz~ms8.rasedmx.xyz~ms9.rasedmx.xyz~rt1.rasedmx.xyz~rt2.rasedmx.xyz~rt3.rasedmx.xyz~rt4.rasedmx.xyz~rt5.rasedmx.xyz~rt8.rasedmx.xyz~rt11.rasedmx.xyz~rt12.rasedmx.xyz~rt13.rasedmx.xyz~rt14.rasedmx.xyz~rt15.rasedmx.xyz~rt16.rasedmx.xyz~rt17.rasedmx.xyz~rt18.rasedmx.xyz~rt19.rasedmx.xyz~rt20.rasedmx.xyz~sp.rasedmx.xyz~rt21.rasedmx.xyz~rt22.rasedmx.xyz~rt23.rasedmx.xyz~rt24.rasedmx.xyz~rt26.rasedmx.xyz~rt27.rasedmx.xyz~rt28.rasedmx.xyz~rt29.rasedmx.xyz~rt30.rasedmx.xyz~rt31.rasedmx.xyz~rt32.rasedmx.xyz~rt33.rasedmx.xyz~rt34.rasedmx.xyz~rt35.rasedmx.xyz~rt36.rasedmx.xyz~rt37.rasedmx.xyz~rt38.rasedmx.xyz~rt39.rasedmx.xyz~rt40.rasedmx.xyz~rt41.rasedmx.xyz~rt42.rasedmx.xyz~sp2.rasedmx.xyz~sp3.rasedmx.xyz~sp4.rasedmx.xyz~sp5.rasedmx.xyz~sp6.rasedmx.xyz~sp7.rasedmx.xyz~sp8.rasedmx.xyz~sp9.rasedmx.xyz~sp10.rasedmx.xyz~sp11.rasedmx.xyz~sp12.rasedmx.xyz~sp13.rasedmx.xyz~sp14.rasedmx.xyz~sp15.rasedmx.xyz~sp17.rasedmx.xyz~sp18.rasedmx.xyz~sp19.rasedmx.xyz~sd2.rasedmx.xyz~sd3.rasedmx.xyz~sd4.rasedmx.xyz~sd5.rasedmx.xyz~sd6.rasedmx.xyz~sd7.rasedmx.xyz~sd8.rasedmx.xyz~sd9.rasedmx.xyz~sd10.rasedmx.xyz~sd12.rasedmx.xyz~sd13.rasedmx.xyz~sd16.rasedmx.xyz~sd17.rasedmx.xyz~sd18.rasedmx.xyz~sd19.rasedmx.xyz~sd21.rasedmx.xyz~sd22.rasedmx.xyz~cd1.rasedmx.xyz~cd2.rasedmx.xyz~cd3.rasedmx.xyz~cd4.rasedmx.xyz~cd5.rasedmx.xyz~cd6.rasedmx.xyz~cd7.rasedmx.xyz~cd8.rasedmx.xyz~cd9.rasedmx.xyz~cd10.rasedmx.xyz~cd11.rasedmx.xyz~cd14.rasedmx.xyz~cd15.rasedmx.xyz~cd16.rasedmx.xyz~cd17.rasedmx.xyz~cd18.rasedmx.xyz~cd19.rasedmx.xyz~cd20.rasedmx.xyz~cd21.rasedmx.xyz~cd22.rasedmx.xyz~cd23.rasedmx.xyz~cd24.rasedmx.xyz~cd25.rasedmx.xyz~cd26.rasedmx.xyz~cd27.rasedmx.xyz~cd29.rasedmx.xyz~cd30.rasedmx.xyz~cd31.rasedmx.xyz~cd33.rasedmx.xyz~cd39.rasedmx.xyz~cd40.rasedmx.xyz~cd41.rasedmx.xyz~cd42.rasedmx.xyz~cd43.rasedmx.xyz~cd44.rasedmx.xyz~cd45.rasedmx.xyz~da1.rasedmx.xyz~da2.rasedmx.xyz~da3.rasedmx.xyz~da4.rasedmx.xyz~da5.rasedmx.xyz~da6.rasedmx.xyz~da7.rasedmx.xyz~da8.rasedmx.xyz~da9.rasedmx.xyz~da10.rasedmx.xyz~da12.rasedmx.xyz~da13.rasedmx.xyz~da14.rasedmx.xyz~da15.rasedmx.xyz~da16.rasedmx.xyz~da17.rasedmx.xyz~da18.rasedmx.xyz~da19.rasedmx.xyz~da20.rasedmx.xyz~da23.rasedmx.xyz~da24.rasedmx.xyz~da26.rasedmx.xyz~da27.rasedmx.xyz~da28.rasedmx.xyz~ts46.rasedmx.xyz~jj.rasedmx.xyz~et1.rasedmx.xyz~et2.rasedmx.xyz~et3.rasedmx.xyz~et6.rasedmx.xyz~et7.rasedmx.xyz~et10.rasedmx.xyz~et11.rasedmx.xyz~et12.rasedmx.xyz~et13.rasedmx.xyz~et14.rasedmx.xyz~et15.rasedmx.xyz~et16.rasedmx.xyz~et17.rasedmx.xyz~at1.rasedmx.xyz~at2.rasedmx.xyz~at3.rasedmx.xyz~at4.rasedmx.xyz~at5.rasedmx.xyz~at6.rasedmx.xyz~at7.rasedmx.xyz~at8.rasedmx.xyz~at9.rasedmx.xyz~at10.rasedmx.xyz~at11.rasedmx.xyz~at12.rasedmx.xyz~at13.rasedmx.xyz~at14.rasedmx.xyz~at15.rasedmx.xyz~at16.rasedmx.xyz~at17.rasedmx.xyz~at18.rasedmx.xyz~at19.rasedmx.xyz~at20.rasedmx.xyz~as1.rasedmx.xyz~as2.rasedmx.xyz~as3.rasedmx.xyz~as4.rasedmx.xyz~as5.rasedmx.xyz~as6.rasedmx.xyz~as7.rasedmx.xyz~as8.rasedmx.xyz~as9.rasedmx.xyz~as10.rasedmx.xyz~as11.rasedmx.xyz~as12.rasedmx.xyz~as13.rasedmx.xyz~as14.rasedmx.xyz~as15.rasedmx.xyz~as16.rasedmx.xyz~as17.rasedmx.xyz~as18.rasedmx.xyz~as19.rasedmx.xyz~as20.rasedmx.xyz~as21.rasedmx.xyz~as22.rasedmx.xyz~as23.rasedmx.xyz~as24.rasedmx.xyz~as25.rasedmx.xyz~as27.rasedmx.xyz~as28.rasedmx.xyz~as29.rasedmx.xyz~as30.rasedmx.xyz~rs11.rasedmx.xyz~rs12.rasedmx.xyz~rs13.rasedmx.xyz~rs14.rasedmx.xyz~rs15.rasedmx.xyz~rs16.rasedmx.xyz~rs17.rasedmx.xyz~rs18.rasedmx.xyz~rs19.rasedmx.xyz~rs20.rasedmx.xyz~rs21.rasedmx.xyz~rs22.rasedmx.xyz~rs23.rasedmx.xyz~rs24.rasedmx.xyz~rs25.rasedmx.xyz~rs26.rasedmx.xyz~rs27.rasedmx.xyz~rs28.ras",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "greatwall",
+      "Username": "greatwall",
+      "Password": "447722",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 7️⃣",
+      "ServerIPHost": "amax101.xshieldtun.xyz~amax102.xshieldtun.xyz~amax103.xshieldtun.xyz~amax104.xshieldtun.xyz~amax105.xshieldtun.xyz~amax106.xshieldtun.xyz~amax107.xshieldtun.xyz~amax108.xshieldtun.xyz~amax109.xshieldtun.xyz~amax110.xshieldtun.xyz~amax111.xshieldtun.xyz~amax1122.xshieldtun.xyz~amax113.xshieldtun.xyz~amax114.xshieldtun.xyz~amax115.xshieldtun.xyz~amax116.xshieldtun.xyz~amax117.xshieldtun.xyz~amax118.xshieldtun.xyz~amax119.xshieldtun.xyz~amax120.xshieldtun.xyz~amax121.xshieldtun.xyz~amax122.xshieldtun.xyz~amax1233.xshieldtun.xyz~amax124.xshieldtun.xyz~amax125.xshieldtun.xyz~amax126.xshieldtun.xyz~amax127.xshieldtun.xyz~amax128.xshieldtun.xyz~amax129.xshieldtun.xyz~amax130.xshieldtun.xyz~amax81.xshieldtun.xyz~amax82.xshieldtun.xyz~amax83.xshieldtun.xyz~amax84.xshieldtun.xyz~amax85.xshieldtun.xyz~amax86.xshieldtun.xyz~amax87.xshieldtun.xyz~amax88.xshieldtun.xyz~amax89.xshieldtun.xyz~amax90.xshieldtun.xyz~amax91.xshieldtun.xyz~amax92.xshieldtun.xyz~amax93.xshieldtun.xyz~amax94.xshieldtun.xyz~amax95.xshieldtun.xyz~amax96.xshieldtun.xyz~amax97.xshieldtun.xyz~amax98.xshieldtun.xyz~amax99.xshieldtun.xyz~amax100.xshieldtun.xyz\",\"server_port\":\"1194\",\"server_udp_port\":\"53\",\"ssl_port\":\"443\",\"category\":\"princews\",\"squid_proxy\":\"amax101.xshieldtun.xyz~amax102.xshieldtun.xyz~amax103.xshieldtun.xyz~amax104.xshieldtun.xyz~amax105.xshieldtun.xyz~amax106.xshieldtun.xyz~amax107.xshieldtun.xyz~amax108.xshieldtun.xyz~amax109.xshieldtun.xyz~amax110.xshieldtun.xyz~amax111.xshieldtun.xyz~amax1122.xshieldtun.xyz~amax113.xshieldtun.xyz~amax114.xshieldtun.xyz~amax115.xshieldtun.xyz~amax116.xshieldtun.xyz~amax117.xshieldtun.xyz~amax118.xshieldtun.xyz~amax119.xshieldtun.xyz~amax120.xshieldtun.xyz~amax121.xshieldtun.xyz~amax122.xshieldtun.xyz~amax1233.xshieldtun.xyz~amax124.xshieldtun.xyz~amax125.xshieldtun.xyz~amax126.xshieldtun.xyz~amax127.xshieldtun.xyz~amax128.xshieldtun.xyz~amax129.xshieldtun.xyz~amax130.xshieldtun.xyz~amax81.xshieldtun.xyz~amax82.xshieldtun.xyz~amax83.xshieldtun.xyz~amax84.xshieldtun.xyz~amax85.xshieldtun.xyz~amax86.xshieldtun.xyz~amax87.xshieldtun.xyz~amax88.xshieldtun.xyz~amax89.xshieldtun.xyz~amax90.xshieldtun.xyz~amax91.xshieldtun.xyz~amax92.xshieldtun.xyz~amax93.xshieldtun.xyz~amax94.xshieldtun.xyz~amax95.xshieldtun.xyz~amax96.xshieldtun.xyz~amax97.xshieldtun.xyz~amax98.xshieldtun.xyz~amax99.xshieldtun.xyz~amax100.xshieldtun.xyz",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "icanchange",
+      "Password": "daily",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 8️⃣",
+      "ServerIPHost": "mx.sarkarmx.xyz",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "ca",
+      "Obfs": "",
+      "Username": "greatwall",
+      "Password": "447722",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 9️⃣",
+      "ServerIPHost": "hd1.tmtunnel.com~hd2.tmtunnel.com~hd3.tmtunnel.com~hd4.tmtunnel.com~hd5.tmtunnel.com~hd6.tmtunnel.com~hd7.tmtunnel.com~hd8.tmtunnel.com~hd9.tmtunnel.com~hd10.tmtunnel.com~hd11.tmtunnel.com~hd12.tmtunnel.com~hd13.tmtunnel.com~hd14.tmtunnel.com~hd15.tmtunnel.com~hd16.tmtunnel.com~hd17.tmtunnel.com~hd18.tmtunnel.com~hd19.tmtunnel.com~hd20.tmtunnel.com~hd21.tmtunnel.com~hd22.tmtunnel.com~hd23.tmtunnel.com~hd24.tmtunnel.com~hd25.tmtunnel.com~hd26.tmtunnel.com~hd27.tmtunnel.com~hd28.tmtunnel.com~hd28.tmtunnel.com~hd29.tmtunnel.com~hd30.tmtunnel.com~hd31.tmtunnel.com~hd32.tmtunnel.com~hd33.tmtunnel.com~hd34.tmtunnel.com~hd35.tmtunnel.com~hd36.tmtunnel.com~hd37.tmtunnel.com~hd38.tmtunnel.com~hd39.tmtunnel.com~hd40.tmtunnel.com~hd41.tmtunnel.com~hd42.tmtunnel.com~hd43.tmtunnel.com~hd44.tmtunnel.com~hd45.tmtunnel.com~hd46.tmtunnel.com~hd47.tmtunnel.com~hd48.tmtunnel.com~hd49.tmtunnel.com~hd50.tmtunnel.com",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "november",
+      "Password": "november",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OVPN Global Server 🔟",
+      "ServerIPHost": "mb1.tmtunnel.com~mb2.tmtunnel.com~mb3.tmtunnel.com~mb4.tmtunnel.com~mb5.tmtunnel.com~mb6.tmtunnel.com~mb7.tmtunnel.com~mb8.tmtunnel.com~mb9.tmtunnel.com~mb10.tmtunnel.com~mb11.tmtunnel.com~mb12.tmtunnel.com~mb13.tmtunnel.com~mb14.tmtunnel.com~mb15.tmtunnel.com~mb16.tmtunnel.com~mb17.tmtunnel.com~mb18.tmtunnel.com~mb19.tmtunnel.com~mb20.tmtunnel.com~aa.tmtunnel.com~zz.tmtunnel.com",
+      "Subname": "Premium Servers 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "ca",
+      "Obfs": "",
+      "Username": "november",
+      "Password": "november",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OpenVPN Server 1️⃣",
+      "ServerIPHost": "open.tmrpro.xyz",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "Donottouch",
+      "Password": "Mvp90Rr",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OpenVPN Server 2️⃣",
+      "ServerIPHost": "new.tmrpro.xyz",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "in",
+      "Obfs": "",
+      "Username": "Donottouch",
+      "Password": "Mvp90Rr",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "OpenVPN Server 3️⃣",
+      "ServerIPHost": "mm.tmrpro.xyz",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "ca",
+      "Obfs": "",
+      "Username": "Donottouch",
+      "Password": "Mvp90Rr",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 1️⃣",
+      "ServerIPHost": "d1rrwp4jg3i6ck.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "de",
+      "Obfs": "",
+      "Username": "shafiq244",
+      "Password": "shafiq67",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 2️⃣",
+      "ServerIPHost": "d14nut83tc3ryw.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "mh9920016",
+      "Username": "mh6942934",
+      "Password": "mh6942934",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 3️⃣",
+      "ServerIPHost": "d3oy3ai8gmp9yr.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "in",
+      "Obfs": "mh9920016",
+      "Username": "mh6942934",
+      "Password": "mh6942934",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 4️⃣",
+      "ServerIPHost": "d2flvv3ixdd535.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "",
+      "Username": "greatwall",
+      "Password": "447722",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 5️⃣",
+      "ServerIPHost": "dq73o535i9zwx.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "ca",
+      "Obfs": "",
+      "Username": "icanchange",
+      "Password": "daily",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 6️⃣",
+      "ServerIPHost": "d1d7hqrwgizawq.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "de",
+      "Obfs": "",
+      "Username": "november",
+      "Password": "november",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 7️⃣",
+      "ServerIPHost": "d3k67tgjpqb4gf.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "november",
+      "Password": "november",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 8️⃣",
+      "ServerIPHost": "d2qu23hvqw2l98.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "",
+      "Username": "Donottouch",
+      "Password": "Mvp90Rr",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "Cloudfront Server 9️⃣",
+      "ServerIPHost": "di4q4xyd0olbb.cloudfront.net",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "1194",
+      "OpenVPNSSLPort": "443",
+      "Protocol": 0,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "in",
+      "Obfs": "",
+      "Username": "Donottouch",
+      "Password": "Mvp90Rr",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "UDP Server 1️⃣",
+      "ServerIPHost": "udppro.berberrynet.xyz",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 2,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "us",
+      "Obfs": "kobe",
+      "Username": "shafiq244",
+      "Password": "shafiq67",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "UDP Server 2️⃣",
+      "ServerIPHost": "hu.berberrynet.xyz",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 2,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "sg",
+      "Obfs": "kobe",
+      "Username": "shafiq244",
+      "Password": "shafiq67",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    },
+    {
+      "Name": "UDP Server 3️⃣",
+      "ServerIPHost": "trudp.tmrpro.xyz",
+      "Subname": "Premium Server 🌍",
+      "OpenVPNTCPPort": "0",
+      "OpenVPNSSLPort": "0",
+      "Protocol": 2,
+      "CloudfrontDNS": "",
+      "ServerHTTP": "",
+      "flag": "in",
+      "Obfs": "kobe",
+      "Username": "Donottouch",
+      "Password": "Mvp90Rr",
+      "UseCustomCert": false,
+      "CustomCert": ""
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "🇰🇪 Kenya Safaricom Activator 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ligibet.co.ke:80[crlf][crlf][split]UNLOCK /? HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Info": "Use this as activator ❤️",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.22.2.38",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Activator 2️⃣",
+      "SNIHost": "",
+      "Payload": "CONNECT [host_port] [protocol][crlf][split]HEAD http://bf62926nek.bf.dynatrace.com/ HTTP/1.1[crlf]Host: bf62926nek.bf.dynatrace.com[crlf]X-Online-Host: bf62926nek.bf.dynatrace.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 1️⃣ [New Host]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "teltonika-networks.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 2️⃣ [New Host]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "141.193.213.10",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 3️⃣ [New Host]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "141.193.213.10",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 1,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 1️⃣ [v2ray]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜  [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "104.21.51.108",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 2️⃣ [v2ray]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "172.67.147.67",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 0,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 3️⃣ [v2ray]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "141.193.213.11",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 4️⃣ [v2ray]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "104.21.51.108",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 5️⃣ [OVPN]",
+      "SNIHost": "[rlb]",
+      "Payload": "POST / HTTP/1.1[crlf]Host: dronfield.gov.uk[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.21.18.250",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 6️⃣ [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "52.84.103.80",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 7️⃣ [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "52.84.102.3",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 8️⃣ [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "141.193.213.10",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 9️⃣ [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "52.84.102.3",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free 🔟 [v2ray]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 [Peter]",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "172.66.43.7",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 0,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇰🇪 Kenya Safaricom Free Internet All IP",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[lf]Host: [host_port][lf][lf][split]UNLOCK /? HTTP/1.1[lf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Info": "No Procedure ✅ ALL IP Working",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "did.ecitizen.go.ke",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇦 Morocco Inwi v2ray 1️⃣",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "تنزيل مجاني وغير محدود على الإنترنت 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "test.twimg.com",
+        "WSType": 0,
+        "ReverseAddress": true,
+        "DNSMode": 0,
+        "ReverseOnly": false
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇲🇦 Morocco Inwi v2ray 2️⃣",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "تنزيل مجاني وغير محدود على الإنترنت 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "196.200.178.31",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "static.ads-twitter.com",
+        "WSType": 0,
+        "ReverseAddress": true,
+        "DNSMode": 0,
+        "ReverseOnly": false
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor WhatsApp Package 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb] [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Unlimited Internet 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "52.84.150.63",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor WhatsApp Package 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "launches.appsflyer.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Snapchat Pkg 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Rana Umair 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "162.159.128.79",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Snapchat Pkg 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Rana Umair 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "162.159.130.11",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Snapchat Pkg 3️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Yaseen King 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "investor.snap.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Snapchat Pkg 4️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Yaseen King 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "community.snap.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Snapchat v2ray",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "162.159.134.86",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Free v2ray 1️⃣",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "198.217.251.250",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Free v2ray 2️⃣",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "188.114.96.7",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 0,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Zong Pubg Package 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Mr. Ali-603",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "pubg.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Zong Pubg Package 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "pubg.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan | Ufone Snapchat 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "Yaseen King 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "162.159.134.86",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan | Ufone Snapchat 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "162.159.134.86",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan | Ufone WhatsApp 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Yaseen King 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.16.252.55",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan | Ufone WhatsApp 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.16.252.55",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz-Ufone-Telenor Snapchat",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Yaseen King 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "162.159.134.86",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan | Jazz Social Pack",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Social Package ✅",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "18.64.141.44",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Ufone Free Fire",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "ff.garena.com",
+        "WSType": 0,
+        "ReverseAddress": true,
+        "DNSMode": 0,
+        "ReverseOnly": false
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz Package New *625#",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Yaseen King 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "18.64.141.94",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz WhatsApp Pkg",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Mr. Ali-603",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.74.39",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz Snapchat",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Mr. Ali-603 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "18.64.141.44",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Zong WhatsApp",
+      "SNIHost": "",
+      "Payload": "GET wss://[rlb] / HTTP/1.1[crlf]Host: chat.whatsapp.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "chat.whatsapp.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz/Ufone/Telenor Snapchat v2ray",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "162.159.138.78",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz CF 1️⃣",
+      "SNIHost": "[rlb]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔥🆂🅷🅾🅰🅸🅱 🔥",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "3.161.103.87",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Free 2024 1️⃣ [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: [rlb][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.18.1.55",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor WhatsApp 1️⃣ [V2RAY]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1 [crlf]Host: [rlb][crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "Rare Trick 👑",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "yowhatsapp.net",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "yowhatsapp.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor WhatsApp 2️⃣ [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "𝒀𝒂𝑸𝒐𝒐𝑩 𝑺𝒌 🇵🇰🔥",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "yowhatsapp.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor WhatsApp 3️⃣ [OVPN]",
+      "SNIHost": "[rlb]",
+      "Payload": "GET / HTTP/1.1[crlf]Host:  [rlb][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🔥🆂🅷🅾🅰🅸🅱 🔥",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.21.26.252",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Zong Facebook",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: h.facebook.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Ali Asghar Brohi 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Ufone & Jazz Snapchat 2024",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Snapchat Package 📦",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "162.159.134.86",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 1,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz,Ufone (No Pkg)",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "172.67.71.160",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Ufone WhatsApp Pkg  2️⃣0️⃣2️⃣4️⃣",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "104.16.252.55",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz 20GB Monthly Pack v2ray",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Monthly Pack v2ray",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "104.16.252.55",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana MTN 700MB 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET ws://[rotate=auth.mtn.com.gh;uhas.edu.gh] HTTP/1.1[crlf]Host: auth.ayo4u.com[crlf]Upgrade: websocket[crlf][crlf]-_- ws://be1.wscom.pro HTTP/1.1[crlf]Host: auth.ayo4u.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.26.15.41",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana MTN 700MB 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET ws://[rotate=auth.mtn.com.gh;uhas.edu.gh] HTTP/1.1[crlf]Host: auth.ayo4u.com[crlf]Upgrade: websocket[crlf][crlf]-_- ws://princebaazh.xyz HTTP/1.1[crlf]Host: auth.ayo4u.com[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "162.159.25.175",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇭 Smart/TNT/Sun PowerAll",
+      "SNIHost": "business-tips.tiktok.com",
+      "Payload": "",
+      "Info": "Unlimited Internet 🛜",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇬🇭 Ghana Telecel Voda Unlimited",
+      "SNIHost": "",
+      "Payload": "POST http://91.241.94.160/ HTTP/1.0[crlf]Host: 91.241.94.160[crlf]Connection: keep-alive[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan Free VIP 1️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT http://reddit.com/ HTTP/1.1[crlf]Host: deezer.com[crlf]User-Agent: google.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [host] [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Unlimited Internet 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.131.85",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan Free VIP 2️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT http://reddit.com/ HTTP/1.1[crlf]Host: deezer.com[crlf]User-Agent: google.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [host] [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.131.85",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan Free VIP 3️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT http://reddit.com/ HTTP/1.1[crlf]Host: deezer.com[crlf]User-Agent: google.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [host] [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.131.85",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan Free VIP 4️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT http://reddit.com/ HTTP/1.1[crlf]Host: deezer.com[crlf]User-Agent: google.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [host] [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.131.85",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇲 Turkmenistan Free VIP 5️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT http://reddit.com/ HTTP/1.1[crlf]Host: deezer.com[crlf]User-Agent: google.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [host] [crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.131.85",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇬🇧 UK Unlimited 🛜",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "three-cust.hcaptcha.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇬🇹 Guatemala Claro Free 🛜",
+      "SNIHost": "",
+      "Payload": "OPTIONS / HTTP/1.1[crlf]Host:cr.claropayment.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "cr.claropayment.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Stc 20SR 7days Unlimited",
+      "SNIHost": "www.tiktok.com",
+      "Payload": "",
+      "Info": "Type: 2181 Send: 900",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA Mobily 60SR All Area v2ray 1️⃣",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "static.ads-twitter.com",
+        "WSType": 0,
+        "ReverseAddress": true,
+        "DNSMode": 0,
+        "ReverseOnly": false
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Jawwy 20SR Combo Pack 7day",
+      "SNIHost": "m.whatsapp.net",
+      "Payload": "",
+      "Info": "Package buy Jawwy Application",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Mobily 60SR Block Area-1️⃣",
+      "SNIHost": "",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host:[rlb] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "Type: 440 Send:1100",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.167.170",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Mobily 60SR Block Area-2️⃣",
+      "SNIHost": "",
+      "Payload": "CDN / HTTP /1.3[crlf]Host: [rlb][crlf]Connection: Keep-Alive,Upgrade,HTTP3-Settings:[rlb][crlf]Proxy-Connection: Keep-Alive[crlf]Vary: Accept-Encoding[crlf]CF-Cache-Status: DYNAMIC[crlf]CF-RAY: 778ca82e1c4fbe94-CGK[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Type: 440 Send:1100",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.167.170",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain 60SR-3️⃣",
+      "SNIHost": "m.tiktok.com",
+      "Payload": "",
+      "Info": "Type: 312 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain Pack SN1/SN3/60SR",
+      "SNIHost": "www.snapchat.com",
+      "Payload": "",
+      "Info": "Unlimited Internet 🛜",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain 60SR-1️⃣",
+      "SNIHost": "www.snapchat.com",
+      "Payload": "",
+      "Info": "Type: 312 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain 60SR-2️⃣",
+      "SNIHost": "www.messenger.com",
+      "Payload": "",
+      "Info": "Type: 312 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain FB1 daily Pack 1Riyal",
+      "SNIHost": "lite.facebook.com",
+      "Payload": "",
+      "Info": "Type FB1 Send 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain 3.5SR Pack",
+      "SNIHost": "lite.facebook.com",
+      "Payload": "",
+      "Info": "Dail : *059#",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain Pack SN2 or SN3",
+      "SNIHost": "www.instagram.com",
+      "Payload": "",
+      "Info": "Type: SN2 Send: 95",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain Pack NX2 25 Riyal-1️⃣",
+      "SNIHost": "www.mobile.netflix.com",
+      "Payload": "",
+      "Info": "Type: NX2 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain Pack NX2 25 Riyal-2️⃣",
+      "SNIHost": "ir.netflix.net",
+      "Payload": "",
+      "Info": "Type: NX2 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain SM2/SM3",
+      "SNIHost": "www.twitter.com",
+      "Payload": "",
+      "Info": "Type: SM2 Send: 959 | Type: SM3 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain Y25+ME40 Unlimited",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "Type: Y25 Send: 959 | Type: ME40 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain SN3 Pack",
+      "SNIHost": "www.snapchat.com",
+      "Payload": "",
+      "Info": "Type: SN3 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Lebara Social Pack",
+      "SNIHost": "g.whatsapp.com",
+      "Payload": "",
+      "Info": "dial *666*007# 30SR (7day Unlimited)\\ndial *777*050# 115SR (30day Unlimited)",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "Wifi & Mobile Data Setup 🌍",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Bypass All Country 🌍",
+      "TunnelType": 0,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Redbull 60SR All Area",
+      "SNIHost": "m.whatsapp.net",
+      "Payload": "",
+      "Info": "Package Buy Redbull Application",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain VB3T Pack",
+      "SNIHost": "www.icq.com",
+      "Payload": "",
+      "Info": "Type: VB3T Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA Mobily Free Block Area Working",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Mokka,Jeddah,Taif,Rabeg,Albaha✓",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "sa-up01.jaco.live",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain Y25 Pack Unlimited",
+      "SNIHost": "www.youtube.com",
+      "Payload": "",
+      "Info": "Type: Y25 Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Stc 89SR 30day Unlimited",
+      "SNIHost": "m.whatsapp.net",
+      "Payload": "",
+      "Info": "Type: 7004 Send: 900",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA Mobily Free Internet v2ray All 2️⃣0️⃣2️⃣4️⃣",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "انترنت مجاني for Mobily ",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "cardinalcommerce.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇸🇦 KSA | Zain RWP Pack 10SR",
+      "SNIHost": "www.google.com",
+      "Payload": "",
+      "Info": "Type: RWP Send: 959",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🌍 All Country UDP 🌍",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 8,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇮🇷 سوپر جدید ایران🔥🔥",
+      "SNIHost": "",
+      "Payload": "HEAD / HTTP/1.1[crlf]Host: cdn.appsflyer.com[crlf][crlf][split][cr]GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Trinet Reborn Plus 🌍",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "cdn.appsflyer.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 1️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "creativecommons.org",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 4️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "nba.onesports.ph",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 2️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "www.onesports.ph",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 3️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "newsroom.trendmicro.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 6️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "www.w3.org",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 7️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "script.crazyegg.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 5️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "us.surveymonkey.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇳 India Vodafone Free 1️⃣",
+      "SNIHost": "connectivitycheck.gstatic.com",
+      "Payload": "",
+      "Info": "If there is no connection, turn the Flight ✈️ mode button🔘 on or off",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇮🇳 India Vodafone Free 2️⃣",
+      "SNIHost": "gstatic.com",
+      "Payload": "",
+      "Info": "If there is no connection, turn the Flight ✈️ mode button🔘 on or off",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 8️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "jquery.org",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇷 Iran MCI CF New 9️⃣",
+      "SNIHost": "",
+      "Payload": "POSTT wss://microsoft.com/ HTTP/1.1[crlf]Host: sb.scorecardresearch.com[crlf][crlf][split][cr]PATCH / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "elegantthemes.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇪🇬 EGY | WE رفع سرعة راوتر وي ❤️",
+      "SNIHost": "scorm.ekb.eg",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇭🇳 Honduras Claro 2024",
+      "SNIHost": "",
+      "Payload": "GET / HTTP / 1.0[lf]Host:balanceador.speedymovil.com.mx[lf]Connection: close[crlf]X-Forwarded-For: vm.tiktok.com[lf]Content-Length: 123456789 DesencriptadorratanConnection: closedarki[lf][lf]crlf]Content-Length: 1985110717[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇲 Zambia MTN Free",
+      "SNIHost": "172.64.151.138",
+      "Payload": "GET wss://[rlb] HTTP/1.1[lf]Host: 104.26.0.242 [crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇶🇦 Qatar Ooredo Free",
+      "SNIHost": "www.tiktok.com",
+      "Payload": "",
+      "Info": "If there is no connection, turn the Flight ✈️ mode button🔘 on or off",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇹🇹 Trinidad BMobile Free 1️⃣ [Cloudfront]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "13.249.98.24",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇹 Trinidad BMobile Free 2️⃣ [Cloudfront]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "13.226.52.45",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇹 Trinidad BMobile Free 3️⃣ [Cloudfront]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "securities-frontend.line-scdn.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇹🇹 Trinidad BMobile Free 4️⃣ [V2ray]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 Flight mode on/off if not connected",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "pushplanet.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇹🇹 Trinidad BMobile Free 5️⃣ [V2ray]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 Flight mode on/off if not connected",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "pushplanet.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 1,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇺🇬 Uganda MTN 1Gb Daily",
+      "SNIHost": "",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: health.go.ug[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.21.31.128",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇺🇬 Uganda Airtel LFH Bundle",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Unlimited Internet 🛜",
+      "TunnelType": 8,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇧🇩 Bangladesh Bypass Wifi Speed",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "আপনার ওয়াইফাই স্পিডকে সর্বোচ্চে বাইপাস করুন",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "legacy.axparis.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇲🇬 Madagascar Airtel 1️⃣",
+      "SNIHost": "[rlb]",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host:[rlb] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "172.67.206.156",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇲🇬 Madagascar Airtel 2️⃣",
+      "SNIHost": "[rlb]",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host:[rlb] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "agoramada.com",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇲🇬 Madagascar Airtel 3️⃣",
+      "SNIHost": "[rlb]",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host:[rlb] [crlf]Upgrade: WebServer(Cloudflare)[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.17.113.188",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇲🇬 Madagascar Airtel TV Bundle 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "launches.appsflyer.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇬 Madagascar Airtel TV Bundle 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "airtel-vod.airtelstream.net",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇲🇬 Madagascar Social Media Bundle",
+      "SNIHost": "sssinstagram.com",
+      "Payload": "",
+      "Info": "Package 📦",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇿🇦 SA-MTN 1GB/day New🔥2024",
+      "SNIHost": "www.greenshootsedu.co.za",
+      "Payload": "GET / HTTP/1.1[crlf]Host: ANON[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: [rlb][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "TLSv1.3",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "www.greenshootsedu.co.za",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇿🇦 SA-MTN 500MB/day New🔥2024 1️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "www.ajameskolar.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇦 SA-MTN 500MB/day New🔥2024 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "gn.total.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇦 SA-MTN 200MB/day New🔥2024",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "mtnfc.co.za",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇿🇦 SA MTN 1GB Free Daily 2024",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "www.welashout.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇬🇹 Guatemala Claro Multipais Putos",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.6 Host: [rlb] Connection: Upgrade Upgrade: Websocket[crlf]GET / HTTP/1.6[lf]Host: [rlb][lf]Connection: Upgrade:SOYBANRI[lf]Upgrade: Websocket[lf]Expect: 4000000000000000-continue[lf][lf]",
+      "Info": "nuevo🟢🟢🇬🇹🇬🇹🇬🇹🇬🇹🟢🟢✅✅",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "clubclaro.com.hn",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇬🇹 Guatemala Claro Sinredes putos Todo ge",
+      "SNIHost": "[rlb]",
+      "Payload": "GET wss://[rlb] HTTP/1.1[crlf]Host: SOYBANRI[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "2️⃣🅾️2️⃣5️⃣",
+      "TunnelType": 5,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": false,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "clubclaro.com.sv",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇧🇩 Bangladesh Robi & Airtel 1️⃣",
+      "SNIHost": "bdcwire.com",
+      "Payload": "GET / HTTP/1.1[crlf]Host: skybanking.ebl-bd.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+      "Info": "রবি ও এয়ারটেল ফ্রি ইন্টারনেট ",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇧🇩 Bangladesh Robi & Airtel 2️⃣",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: bdcwire.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+      "Info": "বিনামূল্যে ইন্টারনেট ",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Jazz Free 2️⃣0️⃣2️⃣4️⃣ [1]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "Yaseen King 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "3.163.248.6",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": " 🇵🇰 Pakistan Jazz TikTok & Snapchat",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "RANA UMAIR 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "www.jazzstandards.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Free 1️⃣ [Cloudfront]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "🔥🆂🅷🅾🅰🅸🅱 🔥",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "cdn.ipinfo.io",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Free 2️⃣ [Cloudfront]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "𝒀𝒂𝑸𝒐𝒐𝑩 𝑺𝒌 🇵🇰🔥",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "cdn.ipinfo.io",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Telenor Free 3️⃣ [Not Limited]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Bilal Don 👑",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "3.163.248.4",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇵🇰 Pakistan Zong Free UDP",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Free Internet Working 💯",
+      "TunnelType": 8,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇿🇼 Zimbabwe Econet Free 1️⃣ [SSL]",
+      "SNIHost": "health.go.ug",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 3,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇿🇼 Zimbabwe Econet Free 2️⃣ [V2RAY]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "health.go.ug",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇿🇼 Zimbabwe Econet Free 3️⃣ [OVPN]",
+      "SNIHost": "[rlb]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "health.go.ug",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇮🇳 India Jio Freenet ALL States 1️⃣ [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "All State Working 🌍",
+      "TunnelType": 6,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "secure-acs2ui-bk2-indmum-mumrdc.wibmo.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇳 India Jio Freenet ALL States 2️⃣  [V2RAY]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "All State Working 🇮🇳",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "secure-acs2ui-bk2-indmum-mumrdc.wibmo.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "www.womenin.wsj.com",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇳 India Jio Freenet ALL States 3️⃣  [V2RAY]",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "सभी राज्य कार्यरत ",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "secure-acs2ui-bk2-indmum-mumrdc.wibmo.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 1,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇮🇳 India Jio Freenet ALL States 4️⃣  [OVPN]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "बिना किसी छूट के सभी राज्यों में काम करना",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.18.35.85",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇮🇳 India Jio Free [Cloudfront]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]X-Online-Host: [rlb][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Info": "🇮🇳 All States Working",
+      "TunnelType": 2,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "newstatic.payu.in",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇩🇪 Germany Aldi/Ortel Unlimited",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "apps.ortelmobile.de",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇩🇪 Germany O2 Sim Unlimited",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "www.o2online.de",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇩🇪 Germany Blau Sim Unlimited",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "www.blau.de",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇩🇪 Germany AldiTalk",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🛡️@Mleda_2022🔰",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "apps.alditalk-kundenbetreuung.de",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇩🇪 Germany Ayyildiz",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "🛡️@Mleda_2022🔰",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "apps.ayyildiz.de",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "All Country V2RAY Workers 🌍",
+      "SNIHost": "",
+      "Payload": "",
+      "Info": "Internet Free 🛜 & Bypass",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "cardinalcommerce.com",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "[Default]",
+        "Port": ""
+      }
+    },
+    {
+      "Name": "🇹🇿 Tanzania Vodacom Unlimited Free",
+      "SNIHost": "[rlb]",
+      "Payload": "GET / HTTP/1.1\nHost: [rlb]\n[crlf]Connection: Upgrade\n[ua]Upgrade: Websocket[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "m-pesa.ac.alipay.com",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇬🇹Guatemala Ponle claro sin saldo putitas",
+      "SNIHost": "[rlb]",
+      "Payload": "GET wss://[rlb] HTTP/1.6[lf]Host: sv.claropayment.com[lf]GET wss://[rlb] HTTP/1.6[lf]Host: sv.claropayment.com[lf]GET wss://[rlb] HTTP/1.6[lf]Host: sv.claropayment.com[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "sv.claropayment.com",
+        "Port": "443"
+      }
+    },
+    {
+      "Name": "🇳🇬 Nigeria Spectranet Free 1️⃣ [V2RAY]",
+      "SNIHost": "",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Internet Free 🛜",
+      "TunnelType": 10,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": false,
+      "V2Ray": {
+        "SNIHost": "104.26.4.14",
+        "WSType": 0,
+        "ReverseAddress": false,
+        "DNSMode": 2,
+        "ReverseOnly": true
+      },
+      "PayloadMode": 1,
+      "ProxySettings": {
+        "Squid": "104.26.4.14",
+        "Port": "80"
+      }
+    },
+    {
+      "Name": "🇳🇬 Nigeria Spectranet Free 2️⃣ [OVPN]",
+      "SNIHost": "[rlb]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rlb][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Info": "Good Working 💯",
+      "TunnelType": 7,
+      "DNSServerHost": "",
+      "DNSResolver": "",
+      "AutoReplace": true,
+      "TLSVersion": "Default",
+      "EnableWS": true,
+      "PayloadMode": 0,
+      "ProxySettings": {
+        "Squid": "104.26.4.14",
+        "Port": "443"
+      }
+    }
+  ],
+  "Username": "jcacanog12",
+  "Password": "Jc09159357",
+  "Notes": "NEW UPDATE ⚠️\n\nPlease support us by sharing our app in your Telegram Channel and Group.\n\nAlso don't forget to watch ads everyday atleast 10-15 it will help us grow and to maintain the application running.."
+}
